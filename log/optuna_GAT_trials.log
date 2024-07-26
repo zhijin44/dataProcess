@@ -1,0 +1,175 @@
+2023-07-13 23:27:42 INFO     Trial 0 params: {'lr': 0.00029930476307995515, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 4, 'n_units_l1': 256, 'n_units_l2': 4, 'n_units_l3': 4}
+2023-07-13 23:27:42 INFO     Best value: 0.13438735177865613
+2023-07-13 23:27:42 INFO     Best params: lr = 0.00029930476307995515
+2023-07-13 23:27:42 INFO     Best params: batch_size = 32
+2023-07-13 23:27:42 INFO     Best params: num_layers = 4
+2023-07-13 23:27:42 INFO     Best params: n_units_l0 = 4
+2023-07-13 23:27:42 INFO     Best params: n_units_l1 = 256
+2023-07-13 23:27:42 INFO     Best params: n_units_l2 = 4
+2023-07-13 23:27:42 INFO     Best params: n_units_l3 = 4
+2023-07-13 23:27:42 INFO     Completed trials 0
+2023-07-14 00:01:34 INFO     Trial 1 params: {'lr': 0.000591525878598679, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 32, 'n_units_l1': 64, 'n_units_l2': 4, 'n_units_l3': 256}
+2023-07-14 00:01:34 INFO     Best value: 0.13438735177865613
+2023-07-14 00:01:34 INFO     Best params: lr = 0.00029930476307995515
+2023-07-14 00:01:34 INFO     Best params: batch_size = 32
+2023-07-14 00:01:34 INFO     Best params: num_layers = 4
+2023-07-14 00:01:34 INFO     Best params: n_units_l0 = 4
+2023-07-14 00:01:34 INFO     Best params: n_units_l1 = 256
+2023-07-14 00:01:34 INFO     Best params: n_units_l2 = 4
+2023-07-14 00:01:34 INFO     Best params: n_units_l3 = 4
+2023-07-14 00:01:34 INFO     Completed trials 1
+2023-07-14 00:19:33 INFO     Trial 2 params: {'lr': 0.0005190303122441351, 'batch_size': 64, 'num_layers': 2, 'n_units_l0': 32, 'n_units_l1': 256}
+2023-07-14 00:19:33 INFO     Best value: 0.13438735177865613
+2023-07-14 00:19:33 INFO     Best params: lr = 0.00029930476307995515
+2023-07-14 00:19:33 INFO     Best params: batch_size = 32
+2023-07-14 00:19:33 INFO     Best params: num_layers = 4
+2023-07-14 00:19:33 INFO     Best params: n_units_l0 = 4
+2023-07-14 00:19:33 INFO     Best params: n_units_l1 = 256
+2023-07-14 00:19:33 INFO     Best params: n_units_l2 = 4
+2023-07-14 00:19:33 INFO     Best params: n_units_l3 = 4
+2023-07-14 00:19:33 INFO     Completed trials 2
+2023-07-14 00:33:45 INFO     Trial 3 params: {'lr': 0.0001419175753245636, 'batch_size': 64, 'num_layers': 1, 'n_units_l0': 256}
+2023-07-14 00:33:45 INFO     Best value: 0.1541501976284585
+2023-07-14 00:33:45 INFO     Best params: lr = 0.0001419175753245636
+2023-07-14 00:33:45 INFO     Best params: batch_size = 64
+2023-07-14 00:33:45 INFO     Best params: num_layers = 1
+2023-07-14 00:33:45 INFO     Best params: n_units_l0 = 256
+2023-07-14 00:33:45 INFO     Completed trials 3
+2023-07-14 01:17:20 INFO     Trial 4 params: {'lr': 9.698139475059691e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 32, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 256, 'n_units_l4': 64}
+2023-07-14 01:17:20 INFO     Best value: 0.16699604743083005
+2023-07-14 01:17:20 INFO     Best params: lr = 9.698139475059691e-05
+2023-07-14 01:17:20 INFO     Best params: batch_size = 64
+2023-07-14 01:17:20 INFO     Best params: num_layers = 5
+2023-07-14 01:17:20 INFO     Best params: n_units_l0 = 32
+2023-07-14 01:17:20 INFO     Best params: n_units_l1 = 128
+2023-07-14 01:17:20 INFO     Best params: n_units_l2 = 128
+2023-07-14 01:17:20 INFO     Best params: n_units_l3 = 256
+2023-07-14 01:17:20 INFO     Best params: n_units_l4 = 64
+2023-07-14 01:17:20 INFO     Completed trials 4
+2023-07-14 01:35:53 INFO     Trial 5 params: {'lr': 1.0781758813186536e-05, 'batch_size': 32, 'num_layers': 1, 'n_units_l0': 256}
+2023-07-14 01:35:53 INFO     Best value: 0.16699604743083005
+2023-07-14 01:35:53 INFO     Best params: lr = 9.698139475059691e-05
+2023-07-14 01:35:53 INFO     Best params: batch_size = 64
+2023-07-14 01:35:53 INFO     Best params: num_layers = 5
+2023-07-14 01:35:53 INFO     Best params: n_units_l0 = 32
+2023-07-14 01:35:53 INFO     Best params: n_units_l1 = 128
+2023-07-14 01:35:53 INFO     Best params: n_units_l2 = 128
+2023-07-14 01:35:53 INFO     Best params: n_units_l3 = 256
+2023-07-14 01:35:53 INFO     Best params: n_units_l4 = 64
+2023-07-14 01:35:53 INFO     Completed trials 5
+2023-07-14 01:54:59 INFO     Trial 6 params: {'lr': 0.0003740598881406456, 'batch_size': 64, 'num_layers': 3, 'n_units_l0': 128, 'n_units_l1': 32, 'n_units_l2': 64}
+2023-07-14 01:54:59 INFO     Best value: 0.16699604743083005
+2023-07-14 01:54:59 INFO     Best params: lr = 9.698139475059691e-05
+2023-07-14 01:54:59 INFO     Best params: batch_size = 64
+2023-07-14 01:54:59 INFO     Best params: num_layers = 5
+2023-07-14 01:54:59 INFO     Best params: n_units_l0 = 32
+2023-07-14 01:54:59 INFO     Best params: n_units_l1 = 128
+2023-07-14 01:54:59 INFO     Best params: n_units_l2 = 128
+2023-07-14 01:54:59 INFO     Best params: n_units_l3 = 256
+2023-07-14 01:54:59 INFO     Best params: n_units_l4 = 64
+2023-07-14 01:54:59 INFO     Completed trials 6
+2023-07-14 02:13:50 INFO     Trial 7 params: {'lr': 0.00046295112168628916, 'batch_size': 128, 'num_layers': 3, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 4}
+2023-07-14 02:13:50 INFO     Best value: 0.18972332015810275
+2023-07-14 02:13:50 INFO     Best params: lr = 0.00046295112168628916
+2023-07-14 02:13:50 INFO     Best params: batch_size = 128
+2023-07-14 02:13:50 INFO     Best params: num_layers = 3
+2023-07-14 02:13:50 INFO     Best params: n_units_l0 = 128
+2023-07-14 02:13:50 INFO     Best params: n_units_l1 = 128
+2023-07-14 02:13:50 INFO     Best params: n_units_l2 = 4
+2023-07-14 02:13:50 INFO     Completed trials 7
+2023-07-14 02:28:48 INFO     Trial 8 params: {'lr': 0.00019189947338043743, 'batch_size': 64, 'num_layers': 2, 'n_units_l0': 32, 'n_units_l1': 128}
+2023-07-14 02:28:48 INFO     Best value: 0.1956521739130435
+2023-07-14 02:28:48 INFO     Best params: lr = 0.00019189947338043743
+2023-07-14 02:28:48 INFO     Best params: batch_size = 64
+2023-07-14 02:28:48 INFO     Best params: num_layers = 2
+2023-07-14 02:28:48 INFO     Best params: n_units_l0 = 32
+2023-07-14 02:28:48 INFO     Best params: n_units_l1 = 128
+2023-07-14 02:28:48 INFO     Completed trials 8
+2023-07-14 02:52:20 INFO     Trial 9 params: {'lr': 0.00010721682437708867, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 16, 'n_units_l1': 4, 'n_units_l2': 64, 'n_units_l3': 4, 'n_units_l4': 16}
+2023-07-14 02:52:20 INFO     Best value: 0.1956521739130435
+2023-07-14 02:52:20 INFO     Best params: lr = 0.00019189947338043743
+2023-07-14 02:52:20 INFO     Best params: batch_size = 64
+2023-07-14 02:52:20 INFO     Best params: num_layers = 2
+2023-07-14 02:52:20 INFO     Best params: n_units_l0 = 32
+2023-07-14 02:52:20 INFO     Best params: n_units_l1 = 128
+2023-07-14 02:52:20 INFO     Completed trials 9
+2023-07-14 03:00:24 INFO     Trial 10 params: {'lr': 4.606611781809681e-05, 'batch_size': 256, 'num_layers': 2, 'n_units_l0': 64, 'n_units_l1': 16}
+2023-07-14 03:00:24 INFO     Best value: 0.1956521739130435
+2023-07-14 03:00:24 INFO     Best params: lr = 0.00019189947338043743
+2023-07-14 03:00:24 INFO     Best params: batch_size = 64
+2023-07-14 03:00:24 INFO     Best params: num_layers = 2
+2023-07-14 03:00:24 INFO     Best params: n_units_l0 = 32
+2023-07-14 03:00:24 INFO     Best params: n_units_l1 = 128
+2023-07-14 03:00:24 INFO     Completed trials 10
+2023-07-14 03:19:23 INFO     Trial 11 params: {'lr': 0.0007161169129476301, 'batch_size': 128, 'num_layers': 3, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 16}
+2023-07-14 03:19:23 INFO     Best value: 0.1956521739130435
+2023-07-14 03:19:23 INFO     Best params: lr = 0.00019189947338043743
+2023-07-14 03:19:23 INFO     Best params: batch_size = 64
+2023-07-14 03:19:23 INFO     Best params: num_layers = 2
+2023-07-14 03:19:23 INFO     Best params: n_units_l0 = 32
+2023-07-14 03:19:23 INFO     Best params: n_units_l1 = 128
+2023-07-14 03:19:23 INFO     Completed trials 11
+2023-07-14 03:35:58 INFO     Trial 12 params: {'lr': 0.00023651961692395412, 'batch_size': 128, 'num_layers': 2, 'n_units_l0': 128, 'n_units_l1': 128}
+2023-07-14 03:35:58 INFO     Best value: 0.22430830039525693
+2023-07-14 03:35:58 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 03:35:58 INFO     Best params: batch_size = 128
+2023-07-14 03:35:58 INFO     Best params: num_layers = 2
+2023-07-14 03:35:58 INFO     Best params: n_units_l0 = 128
+2023-07-14 03:35:58 INFO     Best params: n_units_l1 = 128
+2023-07-14 03:35:58 INFO     Completed trials 12
+2023-07-14 03:46:28 INFO     Trial 13 params: {'lr': 0.00021211505036775784, 'batch_size': 128, 'num_layers': 2, 'n_units_l0': 4, 'n_units_l1': 128}
+2023-07-14 03:46:28 INFO     Best value: 0.22430830039525693
+2023-07-14 03:46:28 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 03:46:28 INFO     Best params: batch_size = 128
+2023-07-14 03:46:28 INFO     Best params: num_layers = 2
+2023-07-14 03:46:28 INFO     Best params: n_units_l0 = 128
+2023-07-14 03:46:28 INFO     Best params: n_units_l1 = 128
+2023-07-14 03:46:28 INFO     Completed trials 13
+2023-07-14 03:58:16 INFO     Trial 14 params: {'lr': 0.0009168190149855305, 'batch_size': 256, 'num_layers': 2, 'n_units_l0': 64, 'n_units_l1': 128}
+2023-07-14 03:58:16 INFO     Best value: 0.22430830039525693
+2023-07-14 03:58:16 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 03:58:16 INFO     Best params: batch_size = 128
+2023-07-14 03:58:16 INFO     Best params: num_layers = 2
+2023-07-14 03:58:16 INFO     Best params: n_units_l0 = 128
+2023-07-14 03:58:16 INFO     Best params: n_units_l1 = 128
+2023-07-14 03:58:16 INFO     Completed trials 14
+2023-07-14 04:06:49 INFO     Trial 15 params: {'lr': 0.00024024834570854147, 'batch_size': 128, 'num_layers': 1, 'n_units_l0': 16}
+2023-07-14 04:06:49 INFO     Best value: 0.22430830039525693
+2023-07-14 04:06:49 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 04:06:49 INFO     Best params: batch_size = 128
+2023-07-14 04:06:49 INFO     Best params: num_layers = 2
+2023-07-14 04:06:49 INFO     Best params: n_units_l0 = 128
+2023-07-14 04:06:49 INFO     Best params: n_units_l1 = 128
+2023-07-14 04:06:49 INFO     Completed trials 15
+2023-07-14 04:17:30 INFO     Trial 16 params: {'lr': 0.00016383641845857378, 'batch_size': 128, 'num_layers': 2, 'n_units_l0': 32, 'n_units_l1': 4}
+2023-07-14 04:17:30 INFO     Best value: 0.22430830039525693
+2023-07-14 04:17:30 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 04:17:30 INFO     Best params: batch_size = 128
+2023-07-14 04:17:30 INFO     Best params: num_layers = 2
+2023-07-14 04:17:30 INFO     Best params: n_units_l0 = 128
+2023-07-14 04:17:30 INFO     Best params: n_units_l1 = 128
+2023-07-14 04:17:30 INFO     Completed trials 16
+2023-07-14 04:39:30 INFO     Trial 17 params: {'lr': 0.00031960803042115803, 'batch_size': 256, 'num_layers': 4, 'n_units_l0': 128, 'n_units_l1': 16, 'n_units_l2': 256, 'n_units_l3': 64}
+2023-07-14 04:39:30 INFO     Best value: 0.22430830039525693
+2023-07-14 04:39:30 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 04:39:30 INFO     Best params: batch_size = 128
+2023-07-14 04:39:30 INFO     Best params: num_layers = 2
+2023-07-14 04:39:30 INFO     Best params: n_units_l0 = 128
+2023-07-14 04:39:30 INFO     Best params: n_units_l1 = 128
+2023-07-14 04:39:30 INFO     Completed trials 17
+2023-07-14 04:51:10 INFO     Trial 18 params: {'lr': 7.248103905769848e-05, 'batch_size': 64, 'num_layers': 1, 'n_units_l0': 128}
+2023-07-14 04:51:10 INFO     Best value: 0.22430830039525693
+2023-07-14 04:51:10 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 04:51:10 INFO     Best params: batch_size = 128
+2023-07-14 04:51:10 INFO     Best params: num_layers = 2
+2023-07-14 04:51:10 INFO     Best params: n_units_l0 = 128
+2023-07-14 04:51:10 INFO     Best params: n_units_l1 = 128
+2023-07-14 04:51:10 INFO     Completed trials 18
+2023-07-14 05:00:59 INFO     Trial 19 params: {'lr': 0.0009495475949771341, 'batch_size': 128, 'num_layers': 2, 'n_units_l0': 32, 'n_units_l1': 64}
+2023-07-14 05:00:59 INFO     Best value: 0.22430830039525693
+2023-07-14 05:00:59 INFO     Best params: lr = 0.00023651961692395412
+2023-07-14 05:00:59 INFO     Best params: batch_size = 128
+2023-07-14 05:00:59 INFO     Best params: num_layers = 2
+2023-07-14 05:00:59 INFO     Best params: n_units_l0 = 128
+2023-07-14 05:00:59 INFO     Best params: n_units_l1 = 128
+2023-07-14 05:00:59 INFO     Completed trials 19

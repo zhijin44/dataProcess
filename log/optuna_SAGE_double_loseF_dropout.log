@@ -1,0 +1,637 @@
+2023-07-20 20:09:55 INFO     Trial 0 params: {'lr': 9e-05, 'batch_size': 256, 'num_layers': 5, 'n_units_l0': 16, 'n_units_l1': 16, 'n_units_l2': 32, 'n_units_l3': 64, 'n_units_l4': 16, 'dropout_rate': 0.3, 'loss_func': 'L1Loss'}
+2023-07-20 20:09:55 INFO     Best value: 0.21788537549407114
+2023-07-20 20:09:55 INFO     Best params: lr = 9e-05
+2023-07-20 20:09:55 INFO     Best params: batch_size = 256
+2023-07-20 20:09:55 INFO     Best params: num_layers = 5
+2023-07-20 20:09:55 INFO     Best params: n_units_l0 = 16
+2023-07-20 20:09:55 INFO     Best params: n_units_l1 = 16
+2023-07-20 20:09:55 INFO     Best params: n_units_l2 = 32
+2023-07-20 20:09:55 INFO     Best params: n_units_l3 = 64
+2023-07-20 20:09:55 INFO     Best params: n_units_l4 = 16
+2023-07-20 20:09:55 INFO     Best params: dropout_rate = 0.3
+2023-07-20 20:09:55 INFO     Best params: loss_func = L1Loss
+2023-07-20 20:09:55 INFO     Completed trials 0
+2023-07-20 20:48:25 INFO     Trial 1 params: {'lr': 1e-05, 'batch_size': 128, 'num_layers': 4, 'n_units_l0': 256, 'n_units_l1': 64, 'n_units_l2': 32, 'n_units_l3': 16, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-20 20:48:25 INFO     Best value: 0.21788537549407114
+2023-07-20 20:48:25 INFO     Best params: lr = 9e-05
+2023-07-20 20:48:25 INFO     Best params: batch_size = 256
+2023-07-20 20:48:25 INFO     Best params: num_layers = 5
+2023-07-20 20:48:25 INFO     Best params: n_units_l0 = 16
+2023-07-20 20:48:25 INFO     Best params: n_units_l1 = 16
+2023-07-20 20:48:25 INFO     Best params: n_units_l2 = 32
+2023-07-20 20:48:25 INFO     Best params: n_units_l3 = 64
+2023-07-20 20:48:25 INFO     Best params: n_units_l4 = 16
+2023-07-20 20:48:25 INFO     Best params: dropout_rate = 0.3
+2023-07-20 20:48:25 INFO     Best params: loss_func = L1Loss
+2023-07-20 20:48:25 INFO     Completed trials 1
+2023-07-20 21:08:22 INFO     Trial 2 params: {'lr': 2e-05, 'batch_size': 256, 'num_layers': 2, 'n_units_l0': 64, 'n_units_l1': 128, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-20 21:08:22 INFO     Best value: 0.21788537549407114
+2023-07-20 21:08:22 INFO     Best params: lr = 9e-05
+2023-07-20 21:08:22 INFO     Best params: batch_size = 256
+2023-07-20 21:08:22 INFO     Best params: num_layers = 5
+2023-07-20 21:08:22 INFO     Best params: n_units_l0 = 16
+2023-07-20 21:08:22 INFO     Best params: n_units_l1 = 16
+2023-07-20 21:08:22 INFO     Best params: n_units_l2 = 32
+2023-07-20 21:08:22 INFO     Best params: n_units_l3 = 64
+2023-07-20 21:08:22 INFO     Best params: n_units_l4 = 16
+2023-07-20 21:08:22 INFO     Best params: dropout_rate = 0.3
+2023-07-20 21:08:22 INFO     Best params: loss_func = L1Loss
+2023-07-20 21:08:22 INFO     Completed trials 2
+2023-07-20 21:37:23 INFO     Trial 3 params: {'lr': 1e-05, 'batch_size': 32, 'num_layers': 2, 'n_units_l0': 16, 'n_units_l1': 64, 'dropout_rate': 0.5, 'loss_func': 'L1Loss'}
+2023-07-20 21:37:23 INFO     Best value: 0.21788537549407114
+2023-07-20 21:37:23 INFO     Best params: lr = 9e-05
+2023-07-20 21:37:23 INFO     Best params: batch_size = 256
+2023-07-20 21:37:23 INFO     Best params: num_layers = 5
+2023-07-20 21:37:23 INFO     Best params: n_units_l0 = 16
+2023-07-20 21:37:23 INFO     Best params: n_units_l1 = 16
+2023-07-20 21:37:23 INFO     Best params: n_units_l2 = 32
+2023-07-20 21:37:23 INFO     Best params: n_units_l3 = 64
+2023-07-20 21:37:23 INFO     Best params: n_units_l4 = 16
+2023-07-20 21:37:23 INFO     Best params: dropout_rate = 0.3
+2023-07-20 21:37:23 INFO     Best params: loss_func = L1Loss
+2023-07-20 21:37:23 INFO     Completed trials 3
+2023-07-20 22:44:26 INFO     Trial 4 params: {'lr': 7.000000000000001e-05, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 16, 'n_units_l3': 256, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-20 22:44:26 INFO     Best value: 0.2598814229249012
+2023-07-20 22:44:26 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-20 22:44:26 INFO     Best params: batch_size = 64
+2023-07-20 22:44:26 INFO     Best params: num_layers = 4
+2023-07-20 22:44:26 INFO     Best params: n_units_l0 = 256
+2023-07-20 22:44:26 INFO     Best params: n_units_l1 = 128
+2023-07-20 22:44:26 INFO     Best params: n_units_l2 = 16
+2023-07-20 22:44:26 INFO     Best params: n_units_l3 = 256
+2023-07-20 22:44:26 INFO     Best params: dropout_rate = 0.5
+2023-07-20 22:44:26 INFO     Best params: loss_func = weighted_mse
+2023-07-20 22:44:26 INFO     Completed trials 4
+2023-07-20 23:45:50 INFO     Trial 5 params: {'lr': 0.0001, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 32, 'n_units_l1': 256, 'n_units_l2': 64, 'n_units_l3': 32, 'dropout_rate': 0.3, 'loss_func': 'L1Loss'}
+2023-07-20 23:45:50 INFO     Best value: 0.2598814229249012
+2023-07-20 23:45:50 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-20 23:45:50 INFO     Best params: batch_size = 64
+2023-07-20 23:45:50 INFO     Best params: num_layers = 4
+2023-07-20 23:45:50 INFO     Best params: n_units_l0 = 256
+2023-07-20 23:45:50 INFO     Best params: n_units_l1 = 128
+2023-07-20 23:45:50 INFO     Best params: n_units_l2 = 16
+2023-07-20 23:45:50 INFO     Best params: n_units_l3 = 256
+2023-07-20 23:45:50 INFO     Best params: dropout_rate = 0.5
+2023-07-20 23:45:50 INFO     Best params: loss_func = weighted_mse
+2023-07-20 23:45:50 INFO     Completed trials 5
+2023-07-21 00:14:26 INFO     Trial 6 params: {'lr': 8e-05, 'batch_size': 128, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 16, 'n_units_l2': 16, 'n_units_l3': 16, 'n_units_l4': 256, 'dropout_rate': 0.3, 'loss_func': 'L1Loss'}
+2023-07-21 00:14:26 INFO     Best value: 0.2598814229249012
+2023-07-21 00:14:26 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 00:14:26 INFO     Best params: batch_size = 64
+2023-07-21 00:14:26 INFO     Best params: num_layers = 4
+2023-07-21 00:14:26 INFO     Best params: n_units_l0 = 256
+2023-07-21 00:14:26 INFO     Best params: n_units_l1 = 128
+2023-07-21 00:14:26 INFO     Best params: n_units_l2 = 16
+2023-07-21 00:14:26 INFO     Best params: n_units_l3 = 256
+2023-07-21 00:14:26 INFO     Best params: dropout_rate = 0.5
+2023-07-21 00:14:26 INFO     Best params: loss_func = weighted_mse
+2023-07-21 00:14:26 INFO     Completed trials 6
+2023-07-21 00:29:14 INFO     Trial 7 params: {'lr': 5e-05, 'batch_size': 256, 'num_layers': 3, 'n_units_l0': 32, 'n_units_l1': 32, 'n_units_l2': 64, 'dropout_rate': 0.2, 'loss_func': 'L1Loss'}
+2023-07-21 00:29:14 INFO     Best value: 0.2598814229249012
+2023-07-21 00:29:14 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 00:29:14 INFO     Best params: batch_size = 64
+2023-07-21 00:29:14 INFO     Best params: num_layers = 4
+2023-07-21 00:29:14 INFO     Best params: n_units_l0 = 256
+2023-07-21 00:29:14 INFO     Best params: n_units_l1 = 128
+2023-07-21 00:29:14 INFO     Best params: n_units_l2 = 16
+2023-07-21 00:29:14 INFO     Best params: n_units_l3 = 256
+2023-07-21 00:29:14 INFO     Best params: dropout_rate = 0.5
+2023-07-21 00:29:14 INFO     Best params: loss_func = weighted_mse
+2023-07-21 00:29:14 INFO     Completed trials 7
+2023-07-21 00:52:37 INFO     Trial 8 params: {'lr': 0.0001, 'batch_size': 64, 'num_layers': 2, 'n_units_l0': 32, 'n_units_l1': 64, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-21 00:52:37 INFO     Best value: 0.2598814229249012
+2023-07-21 00:52:37 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 00:52:37 INFO     Best params: batch_size = 64
+2023-07-21 00:52:37 INFO     Best params: num_layers = 4
+2023-07-21 00:52:37 INFO     Best params: n_units_l0 = 256
+2023-07-21 00:52:37 INFO     Best params: n_units_l1 = 128
+2023-07-21 00:52:37 INFO     Best params: n_units_l2 = 16
+2023-07-21 00:52:37 INFO     Best params: n_units_l3 = 256
+2023-07-21 00:52:37 INFO     Best params: dropout_rate = 0.5
+2023-07-21 00:52:37 INFO     Best params: loss_func = weighted_mse
+2023-07-21 00:52:37 INFO     Completed trials 8
+2023-07-21 01:16:31 INFO     Trial 9 params: {'lr': 0.0001, 'batch_size': 256, 'num_layers': 4, 'n_units_l0': 64, 'n_units_l1': 32, 'n_units_l2': 128, 'n_units_l3': 16, 'dropout_rate': 0.5, 'loss_func': 'mse'}
+2023-07-21 01:16:31 INFO     Best value: 0.2598814229249012
+2023-07-21 01:16:31 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 01:16:31 INFO     Best params: batch_size = 64
+2023-07-21 01:16:31 INFO     Best params: num_layers = 4
+2023-07-21 01:16:31 INFO     Best params: n_units_l0 = 256
+2023-07-21 01:16:31 INFO     Best params: n_units_l1 = 128
+2023-07-21 01:16:31 INFO     Best params: n_units_l2 = 16
+2023-07-21 01:16:31 INFO     Best params: n_units_l3 = 256
+2023-07-21 01:16:31 INFO     Best params: dropout_rate = 0.5
+2023-07-21 01:16:31 INFO     Best params: loss_func = weighted_mse
+2023-07-21 01:16:31 INFO     Completed trials 9
+2023-07-21 02:42:07 INFO     Trial 10 params: {'lr': 6e-05, 'batch_size': 64, 'num_layers': 3, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 256, 'dropout_rate': 0.5, 'loss_func': 'mse'}
+2023-07-21 02:42:07 INFO     Best value: 0.2598814229249012
+2023-07-21 02:42:07 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 02:42:07 INFO     Best params: batch_size = 64
+2023-07-21 02:42:07 INFO     Best params: num_layers = 4
+2023-07-21 02:42:07 INFO     Best params: n_units_l0 = 256
+2023-07-21 02:42:07 INFO     Best params: n_units_l1 = 128
+2023-07-21 02:42:07 INFO     Best params: n_units_l2 = 16
+2023-07-21 02:42:07 INFO     Best params: n_units_l3 = 256
+2023-07-21 02:42:07 INFO     Best params: dropout_rate = 0.5
+2023-07-21 02:42:07 INFO     Best params: loss_func = weighted_mse
+2023-07-21 02:42:07 INFO     Completed trials 10
+2023-07-21 03:59:24 INFO     Trial 11 params: {'lr': 7.000000000000001e-05, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 32, 'n_units_l1': 256, 'n_units_l2': 64, 'n_units_l3': 256, 'dropout_rate': 0.3, 'loss_func': 'weighted_mse'}
+2023-07-21 03:59:24 INFO     Best value: 0.2598814229249012
+2023-07-21 03:59:24 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 03:59:24 INFO     Best params: batch_size = 64
+2023-07-21 03:59:24 INFO     Best params: num_layers = 4
+2023-07-21 03:59:24 INFO     Best params: n_units_l0 = 256
+2023-07-21 03:59:24 INFO     Best params: n_units_l1 = 128
+2023-07-21 03:59:24 INFO     Best params: n_units_l2 = 16
+2023-07-21 03:59:24 INFO     Best params: n_units_l3 = 256
+2023-07-21 03:59:24 INFO     Best params: dropout_rate = 0.5
+2023-07-21 03:59:24 INFO     Best params: loss_func = weighted_mse
+2023-07-21 03:59:24 INFO     Completed trials 11
+2023-07-21 05:48:46 INFO     Trial 12 params: {'lr': 4e-05, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 256, 'n_units_l1': 256, 'n_units_l2': 16, 'n_units_l3': 32, 'dropout_rate': 0.2, 'loss_func': 'L1Loss'}
+2023-07-21 05:48:46 INFO     Best value: 0.2598814229249012
+2023-07-21 05:48:46 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 05:48:46 INFO     Best params: batch_size = 64
+2023-07-21 05:48:46 INFO     Best params: num_layers = 4
+2023-07-21 05:48:46 INFO     Best params: n_units_l0 = 256
+2023-07-21 05:48:46 INFO     Best params: n_units_l1 = 128
+2023-07-21 05:48:46 INFO     Best params: n_units_l2 = 16
+2023-07-21 05:48:46 INFO     Best params: n_units_l3 = 256
+2023-07-21 05:48:46 INFO     Best params: dropout_rate = 0.5
+2023-07-21 05:48:46 INFO     Best params: loss_func = weighted_mse
+2023-07-21 05:48:46 INFO     Completed trials 12
+2023-07-21 07:52:18 INFO     Trial 13 params: {'lr': 4e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 256, 'n_units_l2': 16, 'n_units_l3': 128, 'n_units_l4': 128, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-21 07:52:18 INFO     Best value: 0.2598814229249012
+2023-07-21 07:52:18 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 07:52:18 INFO     Best params: batch_size = 64
+2023-07-21 07:52:18 INFO     Best params: num_layers = 4
+2023-07-21 07:52:18 INFO     Best params: n_units_l0 = 256
+2023-07-21 07:52:18 INFO     Best params: n_units_l1 = 128
+2023-07-21 07:52:18 INFO     Best params: n_units_l2 = 16
+2023-07-21 07:52:18 INFO     Best params: n_units_l3 = 256
+2023-07-21 07:52:18 INFO     Best params: dropout_rate = 0.5
+2023-07-21 07:52:18 INFO     Best params: loss_func = weighted_mse
+2023-07-21 07:52:18 INFO     Completed trials 13
+2023-07-21 08:50:34 INFO     Trial 14 params: {'lr': 4e-05, 'batch_size': 64, 'num_layers': 3, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 16, 'dropout_rate': 0.2, 'loss_func': 'mse'}
+2023-07-21 08:50:34 INFO     Best value: 0.2598814229249012
+2023-07-21 08:50:34 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 08:50:34 INFO     Best params: batch_size = 64
+2023-07-21 08:50:34 INFO     Best params: num_layers = 4
+2023-07-21 08:50:34 INFO     Best params: n_units_l0 = 256
+2023-07-21 08:50:34 INFO     Best params: n_units_l1 = 128
+2023-07-21 08:50:34 INFO     Best params: n_units_l2 = 16
+2023-07-21 08:50:34 INFO     Best params: n_units_l3 = 256
+2023-07-21 08:50:34 INFO     Best params: dropout_rate = 0.5
+2023-07-21 08:50:34 INFO     Best params: loss_func = weighted_mse
+2023-07-21 08:50:34 INFO     Completed trials 14
+2023-07-21 10:44:02 INFO     Trial 15 params: {'lr': 3.0000000000000004e-05, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 256, 'n_units_l1': 256, 'n_units_l2': 16, 'n_units_l3': 256, 'dropout_rate': 0.2, 'loss_func': 'L1Loss'}
+2023-07-21 10:44:02 INFO     Best value: 0.2598814229249012
+2023-07-21 10:44:02 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 10:44:02 INFO     Best params: batch_size = 64
+2023-07-21 10:44:02 INFO     Best params: num_layers = 4
+2023-07-21 10:44:02 INFO     Best params: n_units_l0 = 256
+2023-07-21 10:44:02 INFO     Best params: n_units_l1 = 128
+2023-07-21 10:44:02 INFO     Best params: n_units_l2 = 16
+2023-07-21 10:44:02 INFO     Best params: n_units_l3 = 256
+2023-07-21 10:44:02 INFO     Best params: dropout_rate = 0.5
+2023-07-21 10:44:02 INFO     Best params: loss_func = weighted_mse
+2023-07-21 10:44:02 INFO     Completed trials 15
+2023-07-21 11:26:40 INFO     Trial 16 params: {'lr': 6e-05, 'batch_size': 64, 'num_layers': 3, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 16, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-21 11:26:40 INFO     Best value: 0.2598814229249012
+2023-07-21 11:26:40 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 11:26:40 INFO     Best params: batch_size = 64
+2023-07-21 11:26:40 INFO     Best params: num_layers = 4
+2023-07-21 11:26:40 INFO     Best params: n_units_l0 = 256
+2023-07-21 11:26:40 INFO     Best params: n_units_l1 = 128
+2023-07-21 11:26:40 INFO     Best params: n_units_l2 = 16
+2023-07-21 11:26:40 INFO     Best params: n_units_l3 = 256
+2023-07-21 11:26:40 INFO     Best params: dropout_rate = 0.5
+2023-07-21 11:26:40 INFO     Best params: loss_func = weighted_mse
+2023-07-21 11:26:40 INFO     Completed trials 16
+2023-07-21 13:26:32 INFO     Trial 17 params: {'lr': 7.000000000000001e-05, 'batch_size': 32, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 256, 'n_units_l3': 32, 'n_units_l4': 32, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-21 13:26:32 INFO     Best value: 0.2890316205533597
+2023-07-21 13:26:32 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 13:26:32 INFO     Best params: batch_size = 32
+2023-07-21 13:26:32 INFO     Best params: num_layers = 5
+2023-07-21 13:26:32 INFO     Best params: n_units_l0 = 256
+2023-07-21 13:26:32 INFO     Best params: n_units_l1 = 128
+2023-07-21 13:26:32 INFO     Best params: n_units_l2 = 256
+2023-07-21 13:26:32 INFO     Best params: n_units_l3 = 32
+2023-07-21 13:26:32 INFO     Best params: n_units_l4 = 32
+2023-07-21 13:26:32 INFO     Best params: dropout_rate = 0.2
+2023-07-21 13:26:32 INFO     Best params: loss_func = weighted_mse
+2023-07-21 13:26:32 INFO     Completed trials 17
+2023-07-21 15:03:01 INFO     Trial 18 params: {'lr': 8e-05, 'batch_size': 128, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 256, 'n_units_l3': 32, 'n_units_l4': 32, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-21 15:03:01 INFO     Best value: 0.2890316205533597
+2023-07-21 15:03:01 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 15:03:01 INFO     Best params: batch_size = 32
+2023-07-21 15:03:01 INFO     Best params: num_layers = 5
+2023-07-21 15:03:01 INFO     Best params: n_units_l0 = 256
+2023-07-21 15:03:01 INFO     Best params: n_units_l1 = 128
+2023-07-21 15:03:01 INFO     Best params: n_units_l2 = 256
+2023-07-21 15:03:01 INFO     Best params: n_units_l3 = 32
+2023-07-21 15:03:01 INFO     Best params: n_units_l4 = 32
+2023-07-21 15:03:01 INFO     Best params: dropout_rate = 0.2
+2023-07-21 15:03:01 INFO     Best params: loss_func = weighted_mse
+2023-07-21 15:03:01 INFO     Completed trials 18
+2023-07-21 18:02:28 INFO     Trial 19 params: {'lr': 7.000000000000001e-05, 'batch_size': 32, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 256, 'n_units_l3': 256, 'n_units_l4': 32, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-21 18:02:28 INFO     Best value: 0.2890316205533597
+2023-07-21 18:02:28 INFO     Best params: lr = 7.000000000000001e-05
+2023-07-21 18:02:28 INFO     Best params: batch_size = 32
+2023-07-21 18:02:28 INFO     Best params: num_layers = 5
+2023-07-21 18:02:28 INFO     Best params: n_units_l0 = 256
+2023-07-21 18:02:28 INFO     Best params: n_units_l1 = 128
+2023-07-21 18:02:28 INFO     Best params: n_units_l2 = 256
+2023-07-21 18:02:28 INFO     Best params: n_units_l3 = 32
+2023-07-21 18:02:28 INFO     Best params: n_units_l4 = 32
+2023-07-21 18:02:28 INFO     Best params: dropout_rate = 0.2
+2023-07-21 18:02:28 INFO     Best params: loss_func = weighted_mse
+2023-07-21 18:02:28 INFO     Completed trials 19
+2023-07-21 19:28:02 INFO     Trial 20 params: {'lr': 8e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-21 19:28:02 INFO     Best value: 0.2974308300395257
+2023-07-21 19:28:02 INFO     Best params: lr = 8e-05
+2023-07-21 19:28:02 INFO     Best params: batch_size = 64
+2023-07-21 19:28:02 INFO     Best params: num_layers = 5
+2023-07-21 19:28:02 INFO     Best params: n_units_l0 = 128
+2023-07-21 19:28:02 INFO     Best params: n_units_l1 = 128
+2023-07-21 19:28:02 INFO     Best params: n_units_l2 = 128
+2023-07-21 19:28:02 INFO     Best params: n_units_l3 = 128
+2023-07-21 19:28:02 INFO     Best params: n_units_l4 = 64
+2023-07-21 19:28:02 INFO     Best params: dropout_rate = 0.2
+2023-07-21 19:28:02 INFO     Best params: loss_func = weighted_mse
+2023-07-21 19:28:02 INFO     Completed trials 20
+2023-07-21 20:53:39 INFO     Trial 21 params: {'lr': 8e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-21 20:53:39 INFO     Best value: 0.2974308300395257
+2023-07-21 20:53:39 INFO     Best params: lr = 8e-05
+2023-07-21 20:53:39 INFO     Best params: batch_size = 64
+2023-07-21 20:53:39 INFO     Best params: num_layers = 5
+2023-07-21 20:53:39 INFO     Best params: n_units_l0 = 128
+2023-07-21 20:53:39 INFO     Best params: n_units_l1 = 128
+2023-07-21 20:53:39 INFO     Best params: n_units_l2 = 128
+2023-07-21 20:53:39 INFO     Best params: n_units_l3 = 128
+2023-07-21 20:53:39 INFO     Best params: n_units_l4 = 64
+2023-07-21 20:53:39 INFO     Best params: dropout_rate = 0.2
+2023-07-21 20:53:39 INFO     Best params: loss_func = weighted_mse
+2023-07-21 20:53:39 INFO     Completed trials 21
+2023-07-21 22:19:11 INFO     Trial 22 params: {'lr': 7.000000000000001e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-21 22:19:11 INFO     Best value: 0.2974308300395257
+2023-07-21 22:19:11 INFO     Best params: lr = 8e-05
+2023-07-21 22:19:11 INFO     Best params: batch_size = 64
+2023-07-21 22:19:11 INFO     Best params: num_layers = 5
+2023-07-21 22:19:11 INFO     Best params: n_units_l0 = 128
+2023-07-21 22:19:11 INFO     Best params: n_units_l1 = 128
+2023-07-21 22:19:11 INFO     Best params: n_units_l2 = 128
+2023-07-21 22:19:11 INFO     Best params: n_units_l3 = 128
+2023-07-21 22:19:11 INFO     Best params: n_units_l4 = 64
+2023-07-21 22:19:11 INFO     Best params: dropout_rate = 0.2
+2023-07-21 22:19:11 INFO     Best params: loss_func = weighted_mse
+2023-07-21 22:19:11 INFO     Completed trials 22
+2023-07-21 23:44:52 INFO     Trial 23 params: {'lr': 9e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-21 23:44:52 INFO     Best value: 0.2974308300395257
+2023-07-21 23:44:52 INFO     Best params: lr = 8e-05
+2023-07-21 23:44:52 INFO     Best params: batch_size = 64
+2023-07-21 23:44:52 INFO     Best params: num_layers = 5
+2023-07-21 23:44:52 INFO     Best params: n_units_l0 = 128
+2023-07-21 23:44:52 INFO     Best params: n_units_l1 = 128
+2023-07-21 23:44:52 INFO     Best params: n_units_l2 = 128
+2023-07-21 23:44:52 INFO     Best params: n_units_l3 = 128
+2023-07-21 23:44:52 INFO     Best params: n_units_l4 = 64
+2023-07-21 23:44:52 INFO     Best params: dropout_rate = 0.2
+2023-07-21 23:44:52 INFO     Best params: loss_func = weighted_mse
+2023-07-21 23:44:52 INFO     Completed trials 23
+2023-07-22 01:10:24 INFO     Trial 24 params: {'lr': 6e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 01:10:24 INFO     Best value: 0.2974308300395257
+2023-07-22 01:10:24 INFO     Best params: lr = 8e-05
+2023-07-22 01:10:24 INFO     Best params: batch_size = 64
+2023-07-22 01:10:24 INFO     Best params: num_layers = 5
+2023-07-22 01:10:24 INFO     Best params: n_units_l0 = 128
+2023-07-22 01:10:24 INFO     Best params: n_units_l1 = 128
+2023-07-22 01:10:24 INFO     Best params: n_units_l2 = 128
+2023-07-22 01:10:24 INFO     Best params: n_units_l3 = 128
+2023-07-22 01:10:24 INFO     Best params: n_units_l4 = 64
+2023-07-22 01:10:24 INFO     Best params: dropout_rate = 0.2
+2023-07-22 01:10:24 INFO     Best params: loss_func = weighted_mse
+2023-07-22 01:10:24 INFO     Completed trials 24
+2023-07-22 02:12:17 INFO     Trial 25 params: {'lr': 9e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 32, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 02:12:17 INFO     Best value: 0.2974308300395257
+2023-07-22 02:12:17 INFO     Best params: lr = 8e-05
+2023-07-22 02:12:17 INFO     Best params: batch_size = 64
+2023-07-22 02:12:17 INFO     Best params: num_layers = 5
+2023-07-22 02:12:17 INFO     Best params: n_units_l0 = 128
+2023-07-22 02:12:17 INFO     Best params: n_units_l1 = 128
+2023-07-22 02:12:17 INFO     Best params: n_units_l2 = 128
+2023-07-22 02:12:17 INFO     Best params: n_units_l3 = 128
+2023-07-22 02:12:17 INFO     Best params: n_units_l4 = 64
+2023-07-22 02:12:17 INFO     Best params: dropout_rate = 0.2
+2023-07-22 02:12:17 INFO     Best params: loss_func = weighted_mse
+2023-07-22 02:12:17 INFO     Completed trials 25
+2023-07-22 03:21:52 INFO     Trial 26 params: {'lr': 5e-05, 'batch_size': 32, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 16, 'n_units_l2': 256, 'n_units_l3': 64, 'n_units_l4': 32, 'dropout_rate': 0.2, 'loss_func': 'mse'}
+2023-07-22 03:21:52 INFO     Best value: 0.2974308300395257
+2023-07-22 03:21:52 INFO     Best params: lr = 8e-05
+2023-07-22 03:21:52 INFO     Best params: batch_size = 64
+2023-07-22 03:21:52 INFO     Best params: num_layers = 5
+2023-07-22 03:21:52 INFO     Best params: n_units_l0 = 128
+2023-07-22 03:21:52 INFO     Best params: n_units_l1 = 128
+2023-07-22 03:21:52 INFO     Best params: n_units_l2 = 128
+2023-07-22 03:21:52 INFO     Best params: n_units_l3 = 128
+2023-07-22 03:21:52 INFO     Best params: n_units_l4 = 64
+2023-07-22 03:21:52 INFO     Best params: dropout_rate = 0.2
+2023-07-22 03:21:52 INFO     Best params: loss_func = weighted_mse
+2023-07-22 03:21:52 INFO     Completed trials 26
+2023-07-22 04:22:14 INFO     Trial 27 params: {'lr': 8e-05, 'batch_size': 128, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 32, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 04:22:14 INFO     Best value: 0.2974308300395257
+2023-07-22 04:22:14 INFO     Best params: lr = 8e-05
+2023-07-22 04:22:14 INFO     Best params: batch_size = 64
+2023-07-22 04:22:14 INFO     Best params: num_layers = 5
+2023-07-22 04:22:14 INFO     Best params: n_units_l0 = 128
+2023-07-22 04:22:14 INFO     Best params: n_units_l1 = 128
+2023-07-22 04:22:14 INFO     Best params: n_units_l2 = 128
+2023-07-22 04:22:14 INFO     Best params: n_units_l3 = 128
+2023-07-22 04:22:14 INFO     Best params: n_units_l4 = 64
+2023-07-22 04:22:14 INFO     Best params: dropout_rate = 0.2
+2023-07-22 04:22:14 INFO     Best params: loss_func = weighted_mse
+2023-07-22 04:22:14 INFO     Completed trials 27
+2023-07-22 05:21:22 INFO     Trial 28 params: {'lr': 7.000000000000001e-05, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 16, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 128, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 05:21:22 INFO     Best value: 0.2974308300395257
+2023-07-22 05:21:22 INFO     Best params: lr = 8e-05
+2023-07-22 05:21:22 INFO     Best params: batch_size = 64
+2023-07-22 05:21:22 INFO     Best params: num_layers = 5
+2023-07-22 05:21:22 INFO     Best params: n_units_l0 = 128
+2023-07-22 05:21:22 INFO     Best params: n_units_l1 = 128
+2023-07-22 05:21:22 INFO     Best params: n_units_l2 = 128
+2023-07-22 05:21:22 INFO     Best params: n_units_l3 = 128
+2023-07-22 05:21:22 INFO     Best params: n_units_l4 = 64
+2023-07-22 05:21:22 INFO     Best params: dropout_rate = 0.2
+2023-07-22 05:21:22 INFO     Best params: loss_func = weighted_mse
+2023-07-22 05:21:22 INFO     Completed trials 28
+2023-07-22 06:20:28 INFO     Trial 29 params: {'lr': 9e-05, 'batch_size': 256, 'num_layers': 5, 'n_units_l0': 64, 'n_units_l1': 16, 'n_units_l2': 256, 'n_units_l3': 128, 'n_units_l4': 16, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 06:20:28 INFO     Best value: 0.2974308300395257
+2023-07-22 06:20:28 INFO     Best params: lr = 8e-05
+2023-07-22 06:20:28 INFO     Best params: batch_size = 64
+2023-07-22 06:20:28 INFO     Best params: num_layers = 5
+2023-07-22 06:20:28 INFO     Best params: n_units_l0 = 128
+2023-07-22 06:20:28 INFO     Best params: n_units_l1 = 128
+2023-07-22 06:20:28 INFO     Best params: n_units_l2 = 128
+2023-07-22 06:20:28 INFO     Best params: n_units_l3 = 128
+2023-07-22 06:20:28 INFO     Best params: n_units_l4 = 64
+2023-07-22 06:20:28 INFO     Best params: dropout_rate = 0.2
+2023-07-22 06:20:28 INFO     Best params: loss_func = weighted_mse
+2023-07-22 06:20:28 INFO     Completed trials 29
+2023-07-22 07:25:01 INFO     Trial 30 params: {'lr': 7.000000000000001e-05, 'batch_size': 32, 'num_layers': 5, 'n_units_l0': 16, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 32, 'n_units_l4': 128, 'dropout_rate': 0.2, 'loss_func': 'mse'}
+2023-07-22 07:25:01 INFO     Best value: 0.2974308300395257
+2023-07-22 07:25:01 INFO     Best params: lr = 8e-05
+2023-07-22 07:25:01 INFO     Best params: batch_size = 64
+2023-07-22 07:25:01 INFO     Best params: num_layers = 5
+2023-07-22 07:25:01 INFO     Best params: n_units_l0 = 128
+2023-07-22 07:25:01 INFO     Best params: n_units_l1 = 128
+2023-07-22 07:25:01 INFO     Best params: n_units_l2 = 128
+2023-07-22 07:25:01 INFO     Best params: n_units_l3 = 128
+2023-07-22 07:25:01 INFO     Best params: n_units_l4 = 64
+2023-07-22 07:25:01 INFO     Best params: dropout_rate = 0.2
+2023-07-22 07:25:01 INFO     Best params: loss_func = weighted_mse
+2023-07-22 07:25:01 INFO     Completed trials 30
+2023-07-22 08:20:12 INFO     Trial 31 params: {'lr': 7.000000000000001e-05, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 32, 'n_units_l3': 256, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-22 08:20:12 INFO     Best value: 0.2974308300395257
+2023-07-22 08:20:12 INFO     Best params: lr = 8e-05
+2023-07-22 08:20:12 INFO     Best params: batch_size = 64
+2023-07-22 08:20:12 INFO     Best params: num_layers = 5
+2023-07-22 08:20:12 INFO     Best params: n_units_l0 = 128
+2023-07-22 08:20:12 INFO     Best params: n_units_l1 = 128
+2023-07-22 08:20:12 INFO     Best params: n_units_l2 = 128
+2023-07-22 08:20:12 INFO     Best params: n_units_l3 = 128
+2023-07-22 08:20:12 INFO     Best params: n_units_l4 = 64
+2023-07-22 08:20:12 INFO     Best params: dropout_rate = 0.2
+2023-07-22 08:20:12 INFO     Best params: loss_func = weighted_mse
+2023-07-22 08:20:12 INFO     Completed trials 31
+2023-07-22 10:56:27 INFO     Trial 32 params: {'lr': 8e-05, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 256, 'n_units_l3': 256, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-22 10:56:27 INFO     Best value: 0.2974308300395257
+2023-07-22 10:56:27 INFO     Best params: lr = 8e-05
+2023-07-22 10:56:27 INFO     Best params: batch_size = 64
+2023-07-22 10:56:27 INFO     Best params: num_layers = 5
+2023-07-22 10:56:27 INFO     Best params: n_units_l0 = 128
+2023-07-22 10:56:27 INFO     Best params: n_units_l1 = 128
+2023-07-22 10:56:27 INFO     Best params: n_units_l2 = 128
+2023-07-22 10:56:27 INFO     Best params: n_units_l3 = 128
+2023-07-22 10:56:27 INFO     Best params: n_units_l4 = 64
+2023-07-22 10:56:27 INFO     Best params: dropout_rate = 0.2
+2023-07-22 10:56:27 INFO     Best params: loss_func = weighted_mse
+2023-07-22 10:56:27 INFO     Completed trials 32
+2023-07-22 12:37:33 INFO     Trial 33 params: {'lr': 6e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 128, 'n_units_l2': 32, 'n_units_l3': 128, 'n_units_l4': 256, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-22 12:37:33 INFO     Best value: 0.2974308300395257
+2023-07-22 12:37:33 INFO     Best params: lr = 8e-05
+2023-07-22 12:37:33 INFO     Best params: batch_size = 64
+2023-07-22 12:37:33 INFO     Best params: num_layers = 5
+2023-07-22 12:37:33 INFO     Best params: n_units_l0 = 128
+2023-07-22 12:37:33 INFO     Best params: n_units_l1 = 128
+2023-07-22 12:37:33 INFO     Best params: n_units_l2 = 128
+2023-07-22 12:37:33 INFO     Best params: n_units_l3 = 128
+2023-07-22 12:37:33 INFO     Best params: n_units_l4 = 64
+2023-07-22 12:37:33 INFO     Best params: dropout_rate = 0.2
+2023-07-22 12:37:33 INFO     Best params: loss_func = weighted_mse
+2023-07-22 12:37:33 INFO     Completed trials 33
+2023-07-22 13:21:56 INFO     Trial 34 params: {'lr': 7.000000000000001e-05, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 64, 'n_units_l1': 64, 'n_units_l2': 128, 'n_units_l3': 64, 'dropout_rate': 0.3, 'loss_func': 'weighted_mse'}
+2023-07-22 13:21:56 INFO     Best value: 0.2974308300395257
+2023-07-22 13:21:56 INFO     Best params: lr = 8e-05
+2023-07-22 13:21:56 INFO     Best params: batch_size = 64
+2023-07-22 13:21:56 INFO     Best params: num_layers = 5
+2023-07-22 13:21:56 INFO     Best params: n_units_l0 = 128
+2023-07-22 13:21:56 INFO     Best params: n_units_l1 = 128
+2023-07-22 13:21:56 INFO     Best params: n_units_l2 = 128
+2023-07-22 13:21:56 INFO     Best params: n_units_l3 = 128
+2023-07-22 13:21:56 INFO     Best params: n_units_l4 = 64
+2023-07-22 13:21:56 INFO     Best params: dropout_rate = 0.2
+2023-07-22 13:21:56 INFO     Best params: loss_func = weighted_mse
+2023-07-22 13:21:56 INFO     Completed trials 34
+2023-07-22 13:50:00 INFO     Trial 35 params: {'lr': 5e-05, 'batch_size': 128, 'num_layers': 5, 'n_units_l0': 16, 'n_units_l1': 128, 'n_units_l2': 32, 'n_units_l3': 32, 'n_units_l4': 32, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-22 13:50:00 INFO     Best value: 0.2974308300395257
+2023-07-22 13:50:00 INFO     Best params: lr = 8e-05
+2023-07-22 13:50:00 INFO     Best params: batch_size = 64
+2023-07-22 13:50:00 INFO     Best params: num_layers = 5
+2023-07-22 13:50:00 INFO     Best params: n_units_l0 = 128
+2023-07-22 13:50:00 INFO     Best params: n_units_l1 = 128
+2023-07-22 13:50:00 INFO     Best params: n_units_l2 = 128
+2023-07-22 13:50:00 INFO     Best params: n_units_l3 = 128
+2023-07-22 13:50:00 INFO     Best params: n_units_l4 = 64
+2023-07-22 13:50:00 INFO     Best params: dropout_rate = 0.2
+2023-07-22 13:50:00 INFO     Best params: loss_func = weighted_mse
+2023-07-22 13:50:00 INFO     Completed trials 35
+2023-07-22 15:38:26 INFO     Trial 36 params: {'lr': 8e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 256, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 15:38:26 INFO     Best value: 0.2974308300395257
+2023-07-22 15:38:26 INFO     Best params: lr = 8e-05
+2023-07-22 15:38:26 INFO     Best params: batch_size = 64
+2023-07-22 15:38:26 INFO     Best params: num_layers = 5
+2023-07-22 15:38:26 INFO     Best params: n_units_l0 = 128
+2023-07-22 15:38:26 INFO     Best params: n_units_l1 = 128
+2023-07-22 15:38:26 INFO     Best params: n_units_l2 = 128
+2023-07-22 15:38:26 INFO     Best params: n_units_l3 = 128
+2023-07-22 15:38:26 INFO     Best params: n_units_l4 = 64
+2023-07-22 15:38:26 INFO     Best params: dropout_rate = 0.2
+2023-07-22 15:38:26 INFO     Best params: loss_func = weighted_mse
+2023-07-22 15:38:26 INFO     Completed trials 36
+2023-07-22 16:38:21 INFO     Trial 37 params: {'lr': 9e-05, 'batch_size': 256, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 64, 'n_units_l2': 128, 'n_units_l3': 128, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 16:38:21 INFO     Best value: 0.2974308300395257
+2023-07-22 16:38:21 INFO     Best params: lr = 8e-05
+2023-07-22 16:38:21 INFO     Best params: batch_size = 64
+2023-07-22 16:38:21 INFO     Best params: num_layers = 5
+2023-07-22 16:38:21 INFO     Best params: n_units_l0 = 128
+2023-07-22 16:38:21 INFO     Best params: n_units_l1 = 128
+2023-07-22 16:38:21 INFO     Best params: n_units_l2 = 128
+2023-07-22 16:38:21 INFO     Best params: n_units_l3 = 128
+2023-07-22 16:38:21 INFO     Best params: n_units_l4 = 64
+2023-07-22 16:38:21 INFO     Best params: dropout_rate = 0.2
+2023-07-22 16:38:21 INFO     Best params: loss_func = weighted_mse
+2023-07-22 16:38:21 INFO     Completed trials 37
+2023-07-22 17:39:07 INFO     Trial 38 params: {'lr': 8e-05, 'batch_size': 32, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 16, 'n_units_l2': 128, 'n_units_l3': 64, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 17:39:07 INFO     Best value: 0.2974308300395257
+2023-07-22 17:39:07 INFO     Best params: lr = 8e-05
+2023-07-22 17:39:07 INFO     Best params: batch_size = 64
+2023-07-22 17:39:07 INFO     Best params: num_layers = 5
+2023-07-22 17:39:07 INFO     Best params: n_units_l0 = 128
+2023-07-22 17:39:07 INFO     Best params: n_units_l1 = 128
+2023-07-22 17:39:07 INFO     Best params: n_units_l2 = 128
+2023-07-22 17:39:07 INFO     Best params: n_units_l3 = 128
+2023-07-22 17:39:07 INFO     Best params: n_units_l4 = 64
+2023-07-22 17:39:07 INFO     Best params: dropout_rate = 0.2
+2023-07-22 17:39:07 INFO     Best params: loss_func = weighted_mse
+2023-07-22 17:39:07 INFO     Completed trials 38
+2023-07-22 18:34:35 INFO     Trial 39 params: {'lr': 8e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 64, 'n_units_l3': 16, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 18:34:35 INFO     Best value: 0.2974308300395257
+2023-07-22 18:34:35 INFO     Best params: lr = 8e-05
+2023-07-22 18:34:35 INFO     Best params: batch_size = 64
+2023-07-22 18:34:35 INFO     Best params: num_layers = 5
+2023-07-22 18:34:35 INFO     Best params: n_units_l0 = 128
+2023-07-22 18:34:35 INFO     Best params: n_units_l1 = 128
+2023-07-22 18:34:35 INFO     Best params: n_units_l2 = 128
+2023-07-22 18:34:35 INFO     Best params: n_units_l3 = 128
+2023-07-22 18:34:35 INFO     Best params: n_units_l4 = 64
+2023-07-22 18:34:35 INFO     Best params: dropout_rate = 0.2
+2023-07-22 18:34:35 INFO     Best params: loss_func = weighted_mse
+2023-07-22 18:34:35 INFO     Completed trials 39
+2023-07-22 19:09:29 INFO     Trial 40 params: {'lr': 6e-05, 'batch_size': 64, 'num_layers': 2, 'n_units_l0': 128, 'n_units_l1': 128, 'dropout_rate': 0.2, 'loss_func': 'L1Loss'}
+2023-07-22 19:09:29 INFO     Best value: 0.2974308300395257
+2023-07-22 19:09:29 INFO     Best params: lr = 8e-05
+2023-07-22 19:09:29 INFO     Best params: batch_size = 64
+2023-07-22 19:09:29 INFO     Best params: num_layers = 5
+2023-07-22 19:09:29 INFO     Best params: n_units_l0 = 128
+2023-07-22 19:09:29 INFO     Best params: n_units_l1 = 128
+2023-07-22 19:09:29 INFO     Best params: n_units_l2 = 128
+2023-07-22 19:09:29 INFO     Best params: n_units_l3 = 128
+2023-07-22 19:09:29 INFO     Best params: n_units_l4 = 64
+2023-07-22 19:09:29 INFO     Best params: dropout_rate = 0.2
+2023-07-22 19:09:29 INFO     Best params: loss_func = weighted_mse
+2023-07-22 19:09:29 INFO     Completed trials 40
+2023-07-22 20:39:48 INFO     Trial 41 params: {'lr': 7.000000000000001e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 32, 'n_units_l2': 128, 'n_units_l3': 256, 'n_units_l4': 64, 'dropout_rate': 0.3, 'loss_func': 'weighted_mse'}
+2023-07-22 20:39:48 INFO     Best value: 0.2974308300395257
+2023-07-22 20:39:48 INFO     Best params: lr = 8e-05
+2023-07-22 20:39:48 INFO     Best params: batch_size = 64
+2023-07-22 20:39:48 INFO     Best params: num_layers = 5
+2023-07-22 20:39:48 INFO     Best params: n_units_l0 = 128
+2023-07-22 20:39:48 INFO     Best params: n_units_l1 = 128
+2023-07-22 20:39:49 INFO     Best params: n_units_l2 = 128
+2023-07-22 20:39:49 INFO     Best params: n_units_l3 = 128
+2023-07-22 20:39:49 INFO     Best params: n_units_l4 = 64
+2023-07-22 20:39:49 INFO     Best params: dropout_rate = 0.2
+2023-07-22 20:39:49 INFO     Best params: loss_func = weighted_mse
+2023-07-22 20:39:49 INFO     Completed trials 41
+2023-07-22 21:16:06 INFO     Trial 42 params: {'lr': 0.0001, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 32, 'n_units_l1': 128, 'n_units_l2': 16, 'n_units_l3': 256, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-22 21:16:06 INFO     Best value: 0.2974308300395257
+2023-07-22 21:16:06 INFO     Best params: lr = 8e-05
+2023-07-22 21:16:06 INFO     Best params: batch_size = 64
+2023-07-22 21:16:06 INFO     Best params: num_layers = 5
+2023-07-22 21:16:06 INFO     Best params: n_units_l0 = 128
+2023-07-22 21:16:06 INFO     Best params: n_units_l1 = 128
+2023-07-22 21:16:06 INFO     Best params: n_units_l2 = 128
+2023-07-22 21:16:06 INFO     Best params: n_units_l3 = 128
+2023-07-22 21:16:06 INFO     Best params: n_units_l4 = 64
+2023-07-22 21:16:06 INFO     Best params: dropout_rate = 0.2
+2023-07-22 21:16:06 INFO     Best params: loss_func = weighted_mse
+2023-07-22 21:16:06 INFO     Completed trials 42
+2023-07-22 22:45:08 INFO     Trial 43 params: {'lr': 9e-05, 'batch_size': 64, 'num_layers': 4, 'n_units_l0': 128, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 256, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-22 22:45:09 INFO     Best value: 0.2974308300395257
+2023-07-22 22:45:09 INFO     Best params: lr = 8e-05
+2023-07-22 22:45:09 INFO     Best params: batch_size = 64
+2023-07-22 22:45:09 INFO     Best params: num_layers = 5
+2023-07-22 22:45:09 INFO     Best params: n_units_l0 = 128
+2023-07-22 22:45:09 INFO     Best params: n_units_l1 = 128
+2023-07-22 22:45:09 INFO     Best params: n_units_l2 = 128
+2023-07-22 22:45:09 INFO     Best params: n_units_l3 = 128
+2023-07-22 22:45:09 INFO     Best params: n_units_l4 = 64
+2023-07-22 22:45:09 INFO     Best params: dropout_rate = 0.2
+2023-07-22 22:45:09 INFO     Best params: loss_func = weighted_mse
+2023-07-22 22:45:09 INFO     Completed trials 43
+2023-07-22 23:15:43 INFO     Trial 44 params: {'lr': 7.000000000000001e-05, 'batch_size': 256, 'num_layers': 3, 'n_units_l0': 64, 'n_units_l1': 128, 'n_units_l2': 64, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-22 23:15:43 INFO     Best value: 0.2974308300395257
+2023-07-22 23:15:43 INFO     Best params: lr = 8e-05
+2023-07-22 23:15:43 INFO     Best params: batch_size = 64
+2023-07-22 23:15:43 INFO     Best params: num_layers = 5
+2023-07-22 23:15:43 INFO     Best params: n_units_l0 = 128
+2023-07-22 23:15:43 INFO     Best params: n_units_l1 = 128
+2023-07-22 23:15:43 INFO     Best params: n_units_l2 = 128
+2023-07-22 23:15:43 INFO     Best params: n_units_l3 = 128
+2023-07-22 23:15:43 INFO     Best params: n_units_l4 = 64
+2023-07-22 23:15:43 INFO     Best params: dropout_rate = 0.2
+2023-07-22 23:15:43 INFO     Best params: loss_func = weighted_mse
+2023-07-22 23:15:43 INFO     Completed trials 44
+2023-07-23 01:41:27 INFO     Trial 45 params: {'lr': 8e-05, 'batch_size': 32, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 64, 'n_units_l2': 256, 'n_units_l3': 256, 'n_units_l4': 32, 'dropout_rate': 0.3, 'loss_func': 'mse'}
+2023-07-23 01:41:27 INFO     Best value: 0.2974308300395257
+2023-07-23 01:41:27 INFO     Best params: lr = 8e-05
+2023-07-23 01:41:27 INFO     Best params: batch_size = 64
+2023-07-23 01:41:27 INFO     Best params: num_layers = 5
+2023-07-23 01:41:27 INFO     Best params: n_units_l0 = 128
+2023-07-23 01:41:27 INFO     Best params: n_units_l1 = 128
+2023-07-23 01:41:27 INFO     Best params: n_units_l2 = 128
+2023-07-23 01:41:27 INFO     Best params: n_units_l3 = 128
+2023-07-23 01:41:27 INFO     Best params: n_units_l4 = 64
+2023-07-23 01:41:27 INFO     Best params: dropout_rate = 0.2
+2023-07-23 01:41:27 INFO     Best params: loss_func = weighted_mse
+2023-07-23 01:41:27 INFO     Completed trials 45
+2023-07-23 02:15:33 INFO     Trial 46 params: {'lr': 5e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 128, 'n_units_l1': 32, 'n_units_l2': 16, 'n_units_l3': 16, 'n_units_l4': 64, 'dropout_rate': 0.2, 'loss_func': 'L1Loss'}
+2023-07-23 02:15:33 INFO     Best value: 0.2974308300395257
+2023-07-23 02:15:33 INFO     Best params: lr = 8e-05
+2023-07-23 02:15:33 INFO     Best params: batch_size = 64
+2023-07-23 02:15:33 INFO     Best params: num_layers = 5
+2023-07-23 02:15:33 INFO     Best params: n_units_l0 = 128
+2023-07-23 02:15:33 INFO     Best params: n_units_l1 = 128
+2023-07-23 02:15:33 INFO     Best params: n_units_l2 = 128
+2023-07-23 02:15:33 INFO     Best params: n_units_l3 = 128
+2023-07-23 02:15:33 INFO     Best params: n_units_l4 = 64
+2023-07-23 02:15:33 INFO     Best params: dropout_rate = 0.2
+2023-07-23 02:15:33 INFO     Best params: loss_func = weighted_mse
+2023-07-23 02:15:33 INFO     Completed trials 46
+2023-07-23 02:58:26 INFO     Trial 47 params: {'lr': 1e-05, 'batch_size': 128, 'num_layers': 4, 'n_units_l0': 32, 'n_units_l1': 128, 'n_units_l2': 128, 'n_units_l3': 32, 'dropout_rate': 0.5, 'loss_func': 'weighted_mse'}
+2023-07-23 02:58:26 INFO     Best value: 0.2974308300395257
+2023-07-23 02:58:26 INFO     Best params: lr = 8e-05
+2023-07-23 02:58:26 INFO     Best params: batch_size = 64
+2023-07-23 02:58:26 INFO     Best params: num_layers = 5
+2023-07-23 02:58:26 INFO     Best params: n_units_l0 = 128
+2023-07-23 02:58:26 INFO     Best params: n_units_l1 = 128
+2023-07-23 02:58:26 INFO     Best params: n_units_l2 = 128
+2023-07-23 02:58:26 INFO     Best params: n_units_l3 = 128
+2023-07-23 02:58:26 INFO     Best params: n_units_l4 = 64
+2023-07-23 02:58:26 INFO     Best params: dropout_rate = 0.2
+2023-07-23 02:58:26 INFO     Best params: loss_func = weighted_mse
+2023-07-23 02:58:26 INFO     Completed trials 47
+2023-07-23 05:54:04 INFO     Trial 48 params: {'lr': 6e-05, 'batch_size': 64, 'num_layers': 5, 'n_units_l0': 256, 'n_units_l1': 256, 'n_units_l2': 16, 'n_units_l3': 256, 'n_units_l4': 256, 'dropout_rate': 0.2, 'loss_func': 'weighted_mse'}
+2023-07-23 05:54:04 INFO     Best value: 0.2974308300395257
+2023-07-23 05:54:04 INFO     Best params: lr = 8e-05
+2023-07-23 05:54:04 INFO     Best params: batch_size = 64
+2023-07-23 05:54:04 INFO     Best params: num_layers = 5
+2023-07-23 05:54:04 INFO     Best params: n_units_l0 = 128
+2023-07-23 05:54:04 INFO     Best params: n_units_l1 = 128
+2023-07-23 05:54:04 INFO     Best params: n_units_l2 = 128
+2023-07-23 05:54:04 INFO     Best params: n_units_l3 = 128
+2023-07-23 05:54:04 INFO     Best params: n_units_l4 = 64
+2023-07-23 05:54:04 INFO     Best params: dropout_rate = 0.2
+2023-07-23 05:54:04 INFO     Best params: loss_func = weighted_mse
+2023-07-23 05:54:04 INFO     Completed trials 48
+2023-07-23 06:48:01 INFO     Trial 49 params: {'lr': 0.0001, 'batch_size': 32, 'num_layers': 4, 'n_units_l0': 16, 'n_units_l1': 128, 'n_units_l2': 64, 'n_units_l3': 128, 'dropout_rate': 0.4, 'loss_func': 'weighted_mse'}
+2023-07-23 06:48:01 INFO     Best value: 0.2974308300395257
+2023-07-23 06:48:01 INFO     Best params: lr = 8e-05
+2023-07-23 06:48:01 INFO     Best params: batch_size = 64
+2023-07-23 06:48:01 INFO     Best params: num_layers = 5
+2023-07-23 06:48:01 INFO     Best params: n_units_l0 = 128
+2023-07-23 06:48:01 INFO     Best params: n_units_l1 = 128
+2023-07-23 06:48:01 INFO     Best params: n_units_l2 = 128
+2023-07-23 06:48:01 INFO     Best params: n_units_l3 = 128
+2023-07-23 06:48:01 INFO     Best params: n_units_l4 = 64
+2023-07-23 06:48:01 INFO     Best params: dropout_rate = 0.2
+2023-07-23 06:48:01 INFO     Best params: loss_func = weighted_mse
+2023-07-23 06:48:01 INFO     Completed trials 49

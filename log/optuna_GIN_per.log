@@ -1,0 +1,427 @@
+2023-08-19 11:28:23 INFO     Start trial 0 params: {'lr': 2.330278452372176e-05, 'batch_size': 512, 'hidden_dim': 64, 'lin_layer_time': 3}
+2023-08-19 11:28:23 INFO     Best value: 36.59%
+2023-08-19 11:28:23 INFO     Best params: lr = 2.330278452372176e-05
+2023-08-19 11:28:23 INFO     Best params: batch_size = 512
+2023-08-19 11:28:23 INFO     Best params: hidden_dim = 64
+2023-08-19 11:28:23 INFO     Best params: lin_layer_time = 3
+2023-08-19 11:28:23 INFO     Completed trials 0
+2023-08-19 12:27:52 INFO     Start trial 0 params: {'lr': 0.0004919327305329251, 'batch_size': 64, 'hidden_dim': 16, 'conv_layers': 4}
+2023-08-19 12:27:52 INFO     Best value: 59.37%
+2023-08-19 12:27:52 INFO     Best params: lr = 0.0004919327305329251
+2023-08-19 12:27:52 INFO     Best params: batch_size = 64
+2023-08-19 12:27:52 INFO     Best params: hidden_dim = 16
+2023-08-19 12:27:52 INFO     Best params: conv_layers = 4
+2023-08-19 12:27:52 INFO     Completed trials 0
+2023-08-19 12:37:36 INFO     Start trial 1 params: {'lr': 2.9476120846763623e-05, 'batch_size': 512, 'hidden_dim': 16, 'conv_layers': 3}
+2023-08-19 12:37:36 INFO     Best value: 59.37%
+2023-08-19 12:37:36 INFO     Best params: lr = 0.0004919327305329251
+2023-08-19 12:37:36 INFO     Best params: batch_size = 64
+2023-08-19 12:37:36 INFO     Best params: hidden_dim = 16
+2023-08-19 12:37:36 INFO     Best params: conv_layers = 4
+2023-08-19 12:37:36 INFO     Completed trials 1
+2023-08-19 13:07:40 INFO     Start trial 2 params: {'lr': 0.00012108402822257167, 'batch_size': 32, 'hidden_dim': 32, 'conv_layers': 4}
+2023-08-19 13:07:40 INFO     Best value: 64.99%
+2023-08-19 13:07:40 INFO     Best params: lr = 0.00012108402822257167
+2023-08-19 13:07:40 INFO     Best params: batch_size = 32
+2023-08-19 13:07:40 INFO     Best params: hidden_dim = 32
+2023-08-19 13:07:40 INFO     Best params: conv_layers = 4
+2023-08-19 13:07:40 INFO     Completed trials 2
+2023-08-19 13:19:40 INFO     Start trial 3 params: {'lr': 0.0002224140342708279, 'batch_size': 256, 'hidden_dim': 32, 'conv_layers': 4}
+2023-08-19 13:19:40 INFO     Best value: 64.99%
+2023-08-19 13:19:40 INFO     Best params: lr = 0.00012108402822257167
+2023-08-19 13:19:40 INFO     Best params: batch_size = 32
+2023-08-19 13:19:40 INFO     Best params: hidden_dim = 32
+2023-08-19 13:19:40 INFO     Best params: conv_layers = 4
+2023-08-19 13:19:40 INFO     Completed trials 3
+2023-08-19 14:40:28 INFO     Start trial 4 params: {'lr': 1.0785256303594035e-05, 'batch_size': 32, 'hidden_dim': 128, 'conv_layers': 5}
+2023-08-19 14:40:28 INFO     Best value: 67.82%
+2023-08-19 14:40:28 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 14:40:28 INFO     Best params: batch_size = 32
+2023-08-19 14:40:28 INFO     Best params: hidden_dim = 128
+2023-08-19 14:40:28 INFO     Best params: conv_layers = 5
+2023-08-19 14:40:28 INFO     Completed trials 4
+2023-08-19 14:51:34 INFO     Start trial 5 params: {'lr': 0.0004068851044032303, 'batch_size': 512, 'hidden_dim': 32, 'conv_layers': 4}
+2023-08-19 14:51:34 INFO     Best value: 67.82%
+2023-08-19 14:51:34 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 14:51:34 INFO     Best params: batch_size = 32
+2023-08-19 14:51:34 INFO     Best params: hidden_dim = 128
+2023-08-19 14:51:34 INFO     Best params: conv_layers = 5
+2023-08-19 14:51:34 INFO     Completed trials 5
+2023-08-19 15:22:39 INFO     Start trial 6 params: {'lr': 1.5914948669351866e-05, 'batch_size': 512, 'hidden_dim': 64, 'conv_layers': 5}
+2023-08-19 15:22:39 INFO     Best value: 67.82%
+2023-08-19 15:22:39 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 15:22:39 INFO     Best params: batch_size = 32
+2023-08-19 15:22:39 INFO     Best params: hidden_dim = 128
+2023-08-19 15:22:39 INFO     Best params: conv_layers = 5
+2023-08-19 15:22:39 INFO     Completed trials 6
+2023-08-19 15:34:32 INFO     Start trial 7 params: {'lr': 0.00014172745448153337, 'batch_size': 512, 'hidden_dim': 32, 'conv_layers': 5}
+2023-08-19 15:34:32 INFO     Best value: 67.82%
+2023-08-19 15:34:32 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 15:34:32 INFO     Best params: batch_size = 32
+2023-08-19 15:34:32 INFO     Best params: hidden_dim = 128
+2023-08-19 15:34:32 INFO     Best params: conv_layers = 5
+2023-08-19 15:34:32 INFO     Completed trials 7
+2023-08-19 16:15:24 INFO     Start trial 8 params: {'lr': 0.0008075129827136998, 'batch_size': 256, 'hidden_dim': 128, 'conv_layers': 3}
+2023-08-19 16:15:24 INFO     Best value: 67.82%
+2023-08-19 16:15:24 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 16:15:24 INFO     Best params: batch_size = 32
+2023-08-19 16:15:24 INFO     Best params: hidden_dim = 128
+2023-08-19 16:15:24 INFO     Best params: conv_layers = 5
+2023-08-19 16:15:24 INFO     Completed trials 8
+2023-08-19 16:27:10 INFO     Start trial 9 params: {'lr': 3.607465175260336e-05, 'batch_size': 256, 'hidden_dim': 16, 'conv_layers': 5}
+2023-08-19 16:27:10 INFO     Best value: 67.82%
+2023-08-19 16:27:10 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 16:27:10 INFO     Best params: batch_size = 32
+2023-08-19 16:27:10 INFO     Best params: hidden_dim = 128
+2023-08-19 16:27:10 INFO     Best params: conv_layers = 5
+2023-08-19 16:27:10 INFO     Completed trials 9
+2023-08-19 17:48:03 INFO     Start trial 10 params: {'lr': 1.1529532774520352e-05, 'batch_size': 32, 'hidden_dim': 128, 'conv_layers': 5}
+2023-08-19 17:48:03 INFO     Best value: 67.82%
+2023-08-19 17:48:03 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 17:48:03 INFO     Best params: batch_size = 32
+2023-08-19 17:48:03 INFO     Best params: hidden_dim = 128
+2023-08-19 17:48:03 INFO     Best params: conv_layers = 5
+2023-08-19 17:48:03 INFO     Completed trials 10
+2023-08-19 19:08:54 INFO     Start trial 11 params: {'lr': 1.0383855989949783e-05, 'batch_size': 32, 'hidden_dim': 128, 'conv_layers': 5}
+2023-08-19 19:08:54 INFO     Best value: 67.82%
+2023-08-19 19:08:54 INFO     Best params: lr = 1.0785256303594035e-05
+2023-08-19 19:08:54 INFO     Best params: batch_size = 32
+2023-08-19 19:08:54 INFO     Best params: hidden_dim = 128
+2023-08-19 19:08:54 INFO     Best params: conv_layers = 5
+2023-08-19 19:08:54 INFO     Completed trials 11
+2023-08-19 23:41:50 INFO     Start trial 12 params: {'lr': 1.0135956959787497e-05, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 5}
+2023-08-19 23:41:50 INFO     Best value: 79.97%
+2023-08-19 23:41:50 INFO     Best params: lr = 1.0135956959787497e-05
+2023-08-19 23:41:50 INFO     Best params: batch_size = 16
+2023-08-19 23:41:50 INFO     Best params: hidden_dim = 256
+2023-08-19 23:41:50 INFO     Best params: conv_layers = 5
+2023-08-19 23:41:50 INFO     Completed trials 12
+2023-08-22 18:41:16 INFO     Start trial 0 params: {'lr': 1.1094066626914392e-05, 'batch_size': 512, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-22 18:41:16 INFO     Best value: 50.70%
+2023-08-22 18:41:16 INFO     Best params: lr = 1.1094066626914392e-05
+2023-08-22 18:41:16 INFO     Best params: batch_size = 512
+2023-08-22 18:41:16 INFO     Best params: hidden_dim = 256
+2023-08-22 18:41:16 INFO     Best params: conv_layers = 4
+2023-08-22 18:41:16 INFO     Completed trials 0
+2023-08-22 19:00:23 INFO     Start trial 1 params: {'lr': 2.274675155509621e-05, 'batch_size': 64, 'hidden_dim': 64, 'conv_layers': 3}
+2023-08-22 19:00:23 INFO     Best value: 50.70%
+2023-08-22 19:00:23 INFO     Best params: lr = 1.1094066626914392e-05
+2023-08-22 19:00:23 INFO     Best params: batch_size = 512
+2023-08-22 19:00:23 INFO     Best params: hidden_dim = 256
+2023-08-22 19:00:23 INFO     Best params: conv_layers = 4
+2023-08-22 19:00:23 INFO     Completed trials 1
+2023-08-22 19:10:57 INFO     Start trial 2 params: {'lr': 0.0007069986257694733, 'batch_size': 512, 'hidden_dim': 16, 'conv_layers': 5}
+2023-08-22 19:10:57 INFO     Best value: 50.70%
+2023-08-22 19:10:57 INFO     Best params: lr = 1.1094066626914392e-05
+2023-08-22 19:10:57 INFO     Best params: batch_size = 512
+2023-08-22 19:10:57 INFO     Best params: hidden_dim = 256
+2023-08-22 19:10:57 INFO     Best params: conv_layers = 4
+2023-08-22 19:10:57 INFO     Completed trials 2
+2023-08-22 21:36:46 INFO     Start trial 3 params: {'lr': 2.670000518304611e-05, 'batch_size': 32, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-22 21:36:46 INFO     Best value: 75.34%
+2023-08-22 21:36:46 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-22 21:36:46 INFO     Best params: batch_size = 32
+2023-08-22 21:36:46 INFO     Best params: hidden_dim = 256
+2023-08-22 21:36:46 INFO     Best params: conv_layers = 3
+2023-08-22 21:36:46 INFO     Completed trials 3
+2023-08-22 22:07:53 INFO     Start trial 4 params: {'lr': 0.0006431900326376679, 'batch_size': 512, 'hidden_dim': 64, 'conv_layers': 5}
+2023-08-22 22:07:53 INFO     Best value: 75.34%
+2023-08-22 22:07:53 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-22 22:07:53 INFO     Best params: batch_size = 32
+2023-08-22 22:07:53 INFO     Best params: hidden_dim = 256
+2023-08-22 22:07:53 INFO     Best params: conv_layers = 3
+2023-08-22 22:07:53 INFO     Completed trials 4
+2023-08-22 22:48:02 INFO     Start trial 5 params: {'lr': 0.0003989084060204514, 'batch_size': 512, 'hidden_dim': 128, 'conv_layers': 3}
+2023-08-22 22:48:02 INFO     Best value: 75.34%
+2023-08-22 22:48:02 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-22 22:48:02 INFO     Best params: batch_size = 32
+2023-08-22 22:48:02 INFO     Best params: hidden_dim = 256
+2023-08-22 22:48:02 INFO     Best params: conv_layers = 3
+2023-08-22 22:48:02 INFO     Completed trials 5
+2023-08-23 01:05:22 INFO     Start trial 6 params: {'lr': 6.319106212132199e-05, 'batch_size': 128, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 01:05:22 INFO     Best value: 75.34%
+2023-08-23 01:05:22 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 01:05:22 INFO     Best params: batch_size = 32
+2023-08-23 01:05:22 INFO     Best params: hidden_dim = 256
+2023-08-23 01:05:22 INFO     Best params: conv_layers = 3
+2023-08-23 01:05:22 INFO     Completed trials 6
+2023-08-23 01:24:59 INFO     Start trial 7 params: {'lr': 0.0008194149489360633, 'batch_size': 64, 'hidden_dim': 16, 'conv_layers': 4}
+2023-08-23 01:24:59 INFO     Best value: 75.34%
+2023-08-23 01:24:59 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 01:24:59 INFO     Best params: batch_size = 32
+2023-08-23 01:24:59 INFO     Best params: hidden_dim = 256
+2023-08-23 01:24:59 INFO     Best params: conv_layers = 3
+2023-08-23 01:24:59 INFO     Completed trials 7
+2023-08-23 02:36:14 INFO     Start trial 8 params: {'lr': 0.00017219473610003056, 'batch_size': 256, 'hidden_dim': 128, 'conv_layers': 5}
+2023-08-23 02:36:14 INFO     Best value: 75.34%
+2023-08-23 02:36:14 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 02:36:14 INFO     Best params: batch_size = 32
+2023-08-23 02:36:14 INFO     Best params: hidden_dim = 256
+2023-08-23 02:36:14 INFO     Best params: conv_layers = 3
+2023-08-23 02:36:14 INFO     Completed trials 8
+2023-08-23 02:58:52 INFO     Start trial 9 params: {'lr': 4.935837671558722e-05, 'batch_size': 64, 'hidden_dim': 64, 'conv_layers': 4}
+2023-08-23 02:58:52 INFO     Best value: 75.34%
+2023-08-23 02:58:52 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 02:58:52 INFO     Best params: batch_size = 32
+2023-08-23 02:58:52 INFO     Best params: hidden_dim = 256
+2023-08-23 02:58:52 INFO     Best params: conv_layers = 3
+2023-08-23 02:58:52 INFO     Completed trials 9
+2023-08-23 03:25:00 INFO     Start trial 10 params: {'lr': 2.8150482484377483e-05, 'batch_size': 32, 'hidden_dim': 32, 'conv_layers': 3}
+2023-08-23 03:25:00 INFO     Best value: 75.34%
+2023-08-23 03:25:00 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 03:25:00 INFO     Best params: batch_size = 32
+2023-08-23 03:25:00 INFO     Best params: hidden_dim = 256
+2023-08-23 03:25:00 INFO     Best params: conv_layers = 3
+2023-08-23 03:25:00 INFO     Completed trials 10
+2023-08-23 05:42:26 INFO     Start trial 11 params: {'lr': 8.034312347349891e-05, 'batch_size': 128, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 05:42:26 INFO     Best value: 75.34%
+2023-08-23 05:42:26 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 05:42:26 INFO     Best params: batch_size = 32
+2023-08-23 05:42:26 INFO     Best params: hidden_dim = 256
+2023-08-23 05:42:26 INFO     Best params: conv_layers = 3
+2023-08-23 05:42:26 INFO     Completed trials 11
+2023-08-23 07:59:54 INFO     Start trial 12 params: {'lr': 0.00011587490863252437, 'batch_size': 128, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 07:59:54 INFO     Best value: 75.34%
+2023-08-23 07:59:54 INFO     Best params: lr = 2.670000518304611e-05
+2023-08-23 07:59:54 INFO     Best params: batch_size = 32
+2023-08-23 07:59:54 INFO     Best params: hidden_dim = 256
+2023-08-23 07:59:54 INFO     Best params: conv_layers = 3
+2023-08-23 07:59:54 INFO     Completed trials 12
+2023-08-23 10:40:35 INFO     Start trial 13 params: {'lr': 0.0001671604419068719, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 10:40:35 INFO     Best value: 85.73%
+2023-08-23 10:40:35 INFO     Best params: lr = 0.0001671604419068719
+2023-08-23 10:40:35 INFO     Best params: batch_size = 16
+2023-08-23 10:40:35 INFO     Best params: hidden_dim = 256
+2023-08-23 10:40:35 INFO     Best params: conv_layers = 3
+2023-08-23 10:40:35 INFO     Completed trials 13
+2023-08-23 13:21:19 INFO     Start trial 14 params: {'lr': 0.00020404747859348058, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 13:21:19 INFO     Best value: 85.73%
+2023-08-23 13:21:19 INFO     Best params: lr = 0.0001671604419068719
+2023-08-23 13:21:19 INFO     Best params: batch_size = 16
+2023-08-23 13:21:19 INFO     Best params: hidden_dim = 256
+2023-08-23 13:21:19 INFO     Best params: conv_layers = 3
+2023-08-23 13:21:19 INFO     Completed trials 14
+2023-08-23 14:09:24 INFO     Start trial 15 params: {'lr': 0.00021891982384690864, 'batch_size': 16, 'hidden_dim': 32, 'conv_layers': 3}
+2023-08-23 14:09:24 INFO     Best value: 85.73%
+2023-08-23 14:09:24 INFO     Best params: lr = 0.0001671604419068719
+2023-08-23 14:09:24 INFO     Best params: batch_size = 16
+2023-08-23 14:09:24 INFO     Best params: hidden_dim = 256
+2023-08-23 14:09:24 INFO     Best params: conv_layers = 3
+2023-08-23 14:09:24 INFO     Completed trials 15
+2023-08-23 16:50:33 INFO     Start trial 16 params: {'lr': 0.0002542589993739541, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 16:50:33 INFO     Best value: 85.73%
+2023-08-23 16:50:33 INFO     Best params: lr = 0.0001671604419068719
+2023-08-23 16:50:33 INFO     Best params: batch_size = 16
+2023-08-23 16:50:33 INFO     Best params: hidden_dim = 256
+2023-08-23 16:50:33 INFO     Best params: conv_layers = 3
+2023-08-23 16:50:33 INFO     Completed trials 16
+2023-08-23 19:31:56 INFO     Start trial 17 params: {'lr': 0.00013111677823052242, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 3}
+2023-08-23 19:31:56 INFO     Best value: 85.73%
+2023-08-23 19:31:56 INFO     Best params: lr = 0.0001671604419068719
+2023-08-23 19:31:56 INFO     Best params: batch_size = 16
+2023-08-23 19:31:56 INFO     Best params: hidden_dim = 256
+2023-08-23 19:31:56 INFO     Best params: conv_layers = 3
+2023-08-23 19:31:56 INFO     Completed trials 17
+2023-08-23 23:08:31 INFO     Start trial 18 params: {'lr': 0.0003348335151027663, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-23 23:08:31 INFO     Best value: 86.76%
+2023-08-23 23:08:31 INFO     Best params: lr = 0.0003348335151027663
+2023-08-23 23:08:31 INFO     Best params: batch_size = 16
+2023-08-23 23:08:31 INFO     Best params: hidden_dim = 256
+2023-08-23 23:08:31 INFO     Best params: conv_layers = 4
+2023-08-23 23:08:31 INFO     Completed trials 18
+2023-08-24 00:00:30 INFO     Start trial 19 params: {'lr': 0.0004149555119967445, 'batch_size': 16, 'hidden_dim': 16, 'conv_layers': 4}
+2023-08-24 00:00:30 INFO     Best value: 86.76%
+2023-08-24 00:00:30 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 00:00:30 INFO     Best params: batch_size = 16
+2023-08-24 00:00:30 INFO     Best params: hidden_dim = 256
+2023-08-24 00:00:30 INFO     Best params: conv_layers = 4
+2023-08-24 00:00:30 INFO     Completed trials 19
+2023-08-24 00:57:29 INFO     Start trial 20 params: {'lr': 0.0003244681926695668, 'batch_size': 256, 'hidden_dim': 128, 'conv_layers': 4}
+2023-08-24 00:57:29 INFO     Best value: 86.76%
+2023-08-24 00:57:29 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 00:57:29 INFO     Best params: batch_size = 16
+2023-08-24 00:57:29 INFO     Best params: hidden_dim = 256
+2023-08-24 00:57:29 INFO     Best params: conv_layers = 4
+2023-08-24 00:57:29 INFO     Completed trials 20
+2023-08-24 04:39:01 INFO     Start trial 21 params: {'lr': 0.00017035869001330833, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-24 04:39:01 INFO     Best value: 86.76%
+2023-08-24 04:39:01 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 04:39:01 INFO     Best params: batch_size = 16
+2023-08-24 04:39:01 INFO     Best params: hidden_dim = 256
+2023-08-24 04:39:01 INFO     Best params: conv_layers = 4
+2023-08-24 04:39:01 INFO     Completed trials 21
+2023-08-24 08:20:25 INFO     Start trial 22 params: {'lr': 0.000135403491012159, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-24 08:20:25 INFO     Best value: 86.76%
+2023-08-24 08:20:25 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 08:20:25 INFO     Best params: batch_size = 16
+2023-08-24 08:20:25 INFO     Best params: hidden_dim = 256
+2023-08-24 08:20:25 INFO     Best params: conv_layers = 4
+2023-08-24 08:20:25 INFO     Completed trials 22
+2023-08-24 12:01:34 INFO     Start trial 23 params: {'lr': 0.00028576880381104864, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-24 12:01:34 INFO     Best value: 86.76%
+2023-08-24 12:01:34 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 12:01:34 INFO     Best params: batch_size = 16
+2023-08-24 12:01:34 INFO     Best params: hidden_dim = 256
+2023-08-24 12:01:34 INFO     Best params: conv_layers = 4
+2023-08-24 12:01:34 INFO     Completed trials 23
+2023-08-24 15:44:10 INFO     Start trial 24 params: {'lr': 0.00032867787486887123, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-24 15:44:10 INFO     Best value: 86.76%
+2023-08-24 15:44:10 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 15:44:10 INFO     Best params: batch_size = 16
+2023-08-24 15:44:10 INFO     Best params: hidden_dim = 256
+2023-08-24 15:44:10 INFO     Best params: conv_layers = 4
+2023-08-24 15:44:10 INFO     Completed trials 24
+2023-08-24 16:40:48 INFO     Start trial 25 params: {'lr': 0.0005096072989674258, 'batch_size': 16, 'hidden_dim': 32, 'conv_layers': 4}
+2023-08-24 16:40:48 INFO     Best value: 86.76%
+2023-08-24 16:40:48 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 16:40:48 INFO     Best params: batch_size = 16
+2023-08-24 16:40:48 INFO     Best params: hidden_dim = 256
+2023-08-24 16:40:48 INFO     Best params: conv_layers = 4
+2023-08-24 16:40:48 INFO     Completed trials 25
+2023-08-24 20:21:25 INFO     Start trial 26 params: {'lr': 0.0003016029019105142, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-24 20:21:25 INFO     Best value: 86.76%
+2023-08-24 20:21:25 INFO     Best params: lr = 0.0003348335151027663
+2023-08-24 20:21:25 INFO     Best params: batch_size = 16
+2023-08-24 20:21:25 INFO     Best params: hidden_dim = 256
+2023-08-24 20:21:25 INFO     Best params: conv_layers = 4
+2023-08-24 20:21:25 INFO     Completed trials 26
+2023-08-25 00:01:44 INFO     Start trial 27 params: {'lr': 0.0005149422047717056, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-25 00:01:44 INFO     Best value: 86.76%
+2023-08-25 00:01:44 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 00:01:44 INFO     Best params: batch_size = 16
+2023-08-25 00:01:44 INFO     Best params: hidden_dim = 256
+2023-08-25 00:01:44 INFO     Best params: conv_layers = 4
+2023-08-25 00:01:44 INFO     Completed trials 27
+2023-08-25 03:26:15 INFO     Start trial 28 params: {'lr': 0.0008881897457892436, 'batch_size': 32, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-25 03:26:15 INFO     Best value: 86.76%
+2023-08-25 03:26:15 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 03:26:15 INFO     Best params: batch_size = 16
+2023-08-25 03:26:15 INFO     Best params: hidden_dim = 256
+2023-08-25 03:26:15 INFO     Best params: conv_layers = 4
+2023-08-25 03:26:15 INFO     Completed trials 28
+2023-08-25 06:37:56 INFO     Start trial 29 params: {'lr': 0.00020572424941971956, 'batch_size': 256, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-25 06:37:56 INFO     Best value: 86.76%
+2023-08-25 06:37:56 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 06:37:56 INFO     Best params: batch_size = 16
+2023-08-25 06:37:56 INFO     Best params: hidden_dim = 256
+2023-08-25 06:37:56 INFO     Best params: conv_layers = 4
+2023-08-25 06:37:56 INFO     Completed trials 29
+2023-08-25 07:32:09 INFO     Start trial 30 params: {'lr': 0.0004027823333293339, 'batch_size': 16, 'hidden_dim': 16, 'conv_layers': 4}
+2023-08-25 07:32:09 INFO     Best value: 86.76%
+2023-08-25 07:32:09 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 07:32:09 INFO     Best params: batch_size = 16
+2023-08-25 07:32:09 INFO     Best params: hidden_dim = 256
+2023-08-25 07:32:09 INFO     Best params: conv_layers = 4
+2023-08-25 07:32:09 INFO     Completed trials 30
+2023-08-25 11:12:20 INFO     Start trial 31 params: {'lr': 0.00030076396096082963, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-25 11:12:20 INFO     Best value: 86.76%
+2023-08-25 11:12:20 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 11:12:20 INFO     Best params: batch_size = 16
+2023-08-25 11:12:20 INFO     Best params: hidden_dim = 256
+2023-08-25 11:12:20 INFO     Best params: conv_layers = 4
+2023-08-25 11:12:20 INFO     Completed trials 31
+2023-08-25 14:52:34 INFO     Start trial 32 params: {'lr': 0.00028024399425880653, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-25 14:52:34 INFO     Best value: 86.76%
+2023-08-25 14:52:34 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 14:52:34 INFO     Best params: batch_size = 16
+2023-08-25 14:52:34 INFO     Best params: hidden_dim = 256
+2023-08-25 14:52:34 INFO     Best params: conv_layers = 4
+2023-08-25 14:52:34 INFO     Completed trials 32
+2023-08-25 15:48:37 INFO     Start trial 33 params: {'lr': 0.0005526600089937133, 'batch_size': 16, 'hidden_dim': 64, 'conv_layers': 4}
+2023-08-25 15:48:37 INFO     Best value: 86.76%
+2023-08-25 15:48:37 INFO     Best params: lr = 0.0003348335151027663
+2023-08-25 15:48:37 INFO     Best params: batch_size = 16
+2023-08-25 15:48:37 INFO     Best params: hidden_dim = 256
+2023-08-25 15:48:37 INFO     Best params: conv_layers = 4
+2023-08-25 15:48:37 INFO     Completed trials 33
+2023-08-25 20:27:16 INFO     Start trial 34 params: {'lr': 0.00016463523008905455, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 5}
+2023-08-25 20:27:16 INFO     Best value: 87.06%
+2023-08-25 20:27:16 INFO     Best params: lr = 0.00016463523008905455
+2023-08-25 20:27:16 INFO     Best params: batch_size = 16
+2023-08-25 20:27:16 INFO     Best params: hidden_dim = 256
+2023-08-25 20:27:16 INFO     Best params: conv_layers = 5
+2023-08-25 20:27:16 INFO     Completed trials 34
+2023-08-26 00:30:50 INFO     Start trial 35 params: {'lr': 9.905659278468514e-05, 'batch_size': 512, 'hidden_dim': 256, 'conv_layers': 5}
+2023-08-26 00:30:50 INFO     Best value: 87.06%
+2023-08-26 00:30:50 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 00:30:50 INFO     Best params: batch_size = 16
+2023-08-26 00:30:50 INFO     Best params: hidden_dim = 256
+2023-08-26 00:30:50 INFO     Best params: conv_layers = 5
+2023-08-26 00:30:50 INFO     Completed trials 35
+2023-08-26 01:48:18 INFO     Start trial 36 params: {'lr': 0.00016165519972796097, 'batch_size': 64, 'hidden_dim': 128, 'conv_layers': 5}
+2023-08-26 01:48:18 INFO     Best value: 87.06%
+2023-08-26 01:48:18 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 01:48:18 INFO     Best params: batch_size = 16
+2023-08-26 01:48:18 INFO     Best params: hidden_dim = 256
+2023-08-26 01:48:18 INFO     Best params: conv_layers = 5
+2023-08-26 01:48:18 INFO     Completed trials 36
+2023-08-26 02:26:07 INFO     Start trial 37 params: {'lr': 0.00023224276763043108, 'batch_size': 32, 'hidden_dim': 64, 'conv_layers': 5}
+2023-08-26 02:26:07 INFO     Best value: 87.06%
+2023-08-26 02:26:07 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 02:26:07 INFO     Best params: batch_size = 16
+2023-08-26 02:26:07 INFO     Best params: hidden_dim = 256
+2023-08-26 02:26:07 INFO     Best params: conv_layers = 5
+2023-08-26 02:26:07 INFO     Completed trials 37
+2023-08-26 06:29:41 INFO     Start trial 38 params: {'lr': 0.0006266674173951567, 'batch_size': 512, 'hidden_dim': 256, 'conv_layers': 5}
+2023-08-26 06:29:41 INFO     Best value: 87.06%
+2023-08-26 06:29:41 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 06:29:41 INFO     Best params: batch_size = 16
+2023-08-26 06:29:41 INFO     Best params: hidden_dim = 256
+2023-08-26 06:29:41 INFO     Best params: conv_layers = 5
+2023-08-26 06:29:41 INFO     Completed trials 38
+2023-08-26 07:34:06 INFO     Start trial 39 params: {'lr': 0.0001607768305192423, 'batch_size': 16, 'hidden_dim': 32, 'conv_layers': 5}
+2023-08-26 07:34:06 INFO     Best value: 87.06%
+2023-08-26 07:34:06 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 07:34:06 INFO     Best params: batch_size = 16
+2023-08-26 07:34:06 INFO     Best params: hidden_dim = 256
+2023-08-26 07:34:06 INFO     Best params: conv_layers = 5
+2023-08-26 07:34:06 INFO     Completed trials 39
+2023-08-26 07:48:51 INFO     Start trial 40 params: {'lr': 0.00040552526094182317, 'batch_size': 128, 'hidden_dim': 16, 'conv_layers': 5}
+2023-08-26 07:48:51 INFO     Best value: 87.06%
+2023-08-26 07:48:51 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 07:48:51 INFO     Best params: batch_size = 16
+2023-08-26 07:48:51 INFO     Best params: hidden_dim = 256
+2023-08-26 07:48:51 INFO     Best params: conv_layers = 5
+2023-08-26 07:48:51 INFO     Completed trials 40
+2023-08-26 11:28:58 INFO     Start trial 41 params: {'lr': 0.00032165350553152455, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-26 11:28:58 INFO     Best value: 87.06%
+2023-08-26 11:28:58 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 11:28:58 INFO     Best params: batch_size = 16
+2023-08-26 11:28:58 INFO     Best params: hidden_dim = 256
+2023-08-26 11:28:58 INFO     Best params: conv_layers = 5
+2023-08-26 11:28:58 INFO     Completed trials 41
+2023-08-26 15:10:39 INFO     Start trial 42 params: {'lr': 0.00020259100035298398, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-26 15:10:39 INFO     Best value: 87.06%
+2023-08-26 15:10:39 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 15:10:39 INFO     Best params: batch_size = 16
+2023-08-26 15:10:39 INFO     Best params: hidden_dim = 256
+2023-08-26 15:10:39 INFO     Best params: conv_layers = 5
+2023-08-26 15:10:39 INFO     Completed trials 42
+2023-08-26 18:52:35 INFO     Start trial 43 params: {'lr': 0.00034425692120111195, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-26 18:52:35 INFO     Best value: 87.06%
+2023-08-26 18:52:35 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 18:52:35 INFO     Best params: batch_size = 16
+2023-08-26 18:52:35 INFO     Best params: hidden_dim = 256
+2023-08-26 18:52:35 INFO     Best params: conv_layers = 5
+2023-08-26 18:52:35 INFO     Completed trials 43
+2023-08-26 22:23:59 INFO     Start trial 44 params: {'lr': 0.0002610466986054932, 'batch_size': 64, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-26 22:23:59 INFO     Best value: 87.06%
+2023-08-26 22:23:59 INFO     Best params: lr = 0.00016463523008905455
+2023-08-26 22:23:59 INFO     Best params: batch_size = 16
+2023-08-26 22:23:59 INFO     Best params: hidden_dim = 256
+2023-08-26 22:23:59 INFO     Best params: conv_layers = 5
+2023-08-26 22:23:59 INFO     Completed trials 44
+2023-08-27 02:04:56 INFO     Start trial 45 params: {'lr': 0.0006615875596699055, 'batch_size': 16, 'hidden_dim': 256, 'conv_layers': 4}
+2023-08-27 02:04:56 INFO     Best value: 87.06%
+2023-08-27 02:04:56 INFO     Best params: lr = 0.00016463523008905455
+2023-08-27 02:04:56 INFO     Best params: batch_size = 16
+2023-08-27 02:04:56 INFO     Best params: hidden_dim = 256
+2023-08-27 02:04:56 INFO     Best params: conv_layers = 5
+2023-08-27 02:04:56 INFO     Completed trials 45
+2023-08-27 03:17:32 INFO     Start trial 46 params: {'lr': 0.00018709624299799104, 'batch_size': 256, 'hidden_dim': 128, 'conv_layers': 5}
+2023-08-27 03:17:32 INFO     Best value: 87.06%
+2023-08-27 03:17:32 INFO     Best params: lr = 0.00016463523008905455
+2023-08-27 03:17:32 INFO     Best params: batch_size = 16
+2023-08-27 03:17:32 INFO     Best params: hidden_dim = 256
+2023-08-27 03:17:32 INFO     Best params: conv_layers = 5
+2023-08-27 03:17:32 INFO     Completed trials 46
